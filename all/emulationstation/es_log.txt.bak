@@ -1,7 +1,6 @@
 lvl2: 	EmulationStation - v2.7.6rp, built Jul 11 2018 - 17:57:30
 lvl2: 	Creating surface...
 lvl2: 	Created window successfully.
-lvl2: 	Added known joystick 8Bitdo SF30 Pro (instance ID: 0, device index: 0)
 lvl2: 	Checking available OpenGL extensions...
 lvl2: 	 ARB_texture_non_power_of_two: MISSING
 lvl2: 	Loading system config file /etc/emulationstation/es_systems.cfg...
@@ -24,6 +23,7 @@ lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/gamegear"" is not a
 lvl1: 	System "gamegear" has no games! Ignoring it.
 lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/gb"" is not a directory!
 lvl1: 	System "gb" has no games! Ignoring it.
+lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/gba"" is not a directory!
 lvl1: 	System "gba" has no games! Ignoring it.
 lvl2: 	Parsing XML file "/home/settop/.emulationstation/gamelists/gbc/gamelist.xml"...
 lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/mame-libretro"" is not a directory!
@@ -34,7 +34,7 @@ lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/mastersystem"" is n
 lvl1: 	System "mastersystem" has no games! Ignoring it.
 lvl2: 	Parsing XML file "/home/settop/.emulationstation/gamelists/megadrive/gamelist.xml"...
 lvl2: 	Parsing XML file "/home/settop/.emulationstation/gamelists/n64/gamelist.xml"...
-lvl1: 	System "neogeo" has no games! Ignoring it.
+lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/nes"" is not a directory!
 lvl1: 	System "nes" has no games! Ignoring it.
 lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/ngp"" is not a directory!
 lvl1: 	System "ngp" has no games! Ignoring it.
@@ -42,7 +42,6 @@ lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/ngpc"" is not a dir
 lvl1: 	System "ngpc" has no games! Ignoring it.
 lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/pcengine"" is not a directory!
 lvl1: 	System "pcengine" has no games! Ignoring it.
-lvl1: 	System "psx" has no games! Ignoring it.
 lvl2: 	Parsing XML file "/home/settop/.emulationstation/gamelists/retropie/gamelist.xml"...
 lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/sega32x"" is not a directory!
 lvl1: 	System "sega32x" has no games! Ignoring it.
@@ -50,20 +49,8 @@ lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/segacd"" is not a d
 lvl1: 	System "segacd" has no games! Ignoring it.
 lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/sg-1000"" is not a directory!
 lvl1: 	System "sg-1000" has no games! Ignoring it.
-lvl1: 	System "snes" has no games! Ignoring it.
 lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/vectrex"" is not a directory!
 lvl1: 	System "vectrex" has no games! Ignoring it.
 lvl1: 	Error - folder with path ""/home/settop/RetroPie/roms/zxspectrum"" is not a directory!
 lvl1: 	System "zxspectrum" has no games! Ignoring it.
-lvl2: 	 req sound [detailed.launch]
-lvl2: 	   (missing)
-lvl2: 	Attempting to launch game...
-lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ gbc /home/settop/RetroPie/roms/gbc/Shantae.gbc
-lvl2: 	Creating surface...
-lvl2: 	Created window successfully.
-lvl2: 	Added known joystick 8Bitdo SF30 Pro (instance ID: 0, device index: 0)
-lvl0: 	VolumeControl::init() - Failed to find mixer elements!
-lvl2: 	Added known joystick 8Bitdo SF30 Pro (instance ID: 0, device index: 0)
-lvl2: 	Added/Updated 1 entities in '/home/settop/.emulationstation/gamelists/gbc/gamelist.xml'
 lvl2: 	EmulationStation cleanly shutting down.
