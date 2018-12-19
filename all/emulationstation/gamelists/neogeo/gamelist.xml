@@ -1,19 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./blazstar.zip</path>
-		<name>Blazing Star</name>
-		<desc>Sometime in their past, the planets Remuria and Mutras started an interplanetary war that showed no sign of ending. The endless fight between the human-like inhabitants of the two planets had gone so long that weapon development moved into dangerous territory: Organic Weapon Production combined with alien technology. Soon, a sentient weapon - Brawshella - was born. Brawshella gathered all animal life on both planets and forced them to do its bidding and attack the humans. In a week, the humans were assimilated by Brawshella.
-Yet, once they were assimilated, they found no other purpose in life but to continue fighting each other. After a while, four of the assimilated fighter pilots regained their consciousness and remembered their pasts. Upon discovering their humanity, the pilots were conflicted with following Brawshella's orders or fighting it to fully regain their independence. The pilots finally turn against the machine in a battle to rediscover themselves and reclaim their planets.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/neogeo/blazstar-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19980219T000000</releasedate>
-		<developer>Yumekobo Co., Ltd.</developer>
-		<publisher>SNK Corporation</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./garou.zip</path>
 		<name>Garou: Mark of the Wolves</name>
 		<desc>It's been several years since Geese Howard was defeated in a battle with Terry Bogard, a young man looking to avenge his father. Rather than looking to be saved from death after falling off his office balcony, Geese instead decided to die, and left behind his young son, Rock. Terry took Rock in and became like a big brother to him, raising the boy throughout his life.
@@ -143,5 +130,20 @@ This game also marked the debut of Jack and Ryofu, which many players considered
 		<publisher>SNK</publisher>
 		<genre>Fighting</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./blazstar.zip</path>
+		<name>Blazing Star</name>
+		<desc>Sometime in their past, the planets Remuria and Mutras started an interplanetary war that showed no sign of ending. The endless fight between the human-like inhabitants of the two planets had gone so long that weapon development moved into dangerous territory: Organic Weapon Production combined with alien technology. Soon, a sentient weapon - Brawshella - was born. Brawshella gathered all animal life on both planets and forced them to do its bidding and attack the humans. In a week, the humans were assimilated by Brawshella.
+Yet, once they were assimilated, they found no other purpose in life but to continue fighting each other. After a while, four of the assimilated fighter pilots regained their consciousness and remembered their pasts. Upon discovering their humanity, the pilots were conflicted with following Brawshella's orders or fighting it to fully regain their independence. The pilots finally turn against the machine in a battle to rediscover themselves and reclaim their planets.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/neogeo/blazstar-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19980219T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK Corporation</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20181219T112439</lastplayed>
 	</game>
 </gameList>
