@@ -10,7 +10,7 @@
 		<developer>Imagic</developer>
 		<publisher>Imagic</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Battlezone (1983) (Atari - GCC, Mike Feinstein) (CX2681) ~.zip</path>
@@ -21,19 +21,6 @@
 		<releasedate>19830101T000000</releasedate>
 		<developer>Atari</developer>
 		<publisher>Atari</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Custer's Revenge (1982) (Mystique - American Multiple Industries, Joel H. Martin) (1001) ~.zip</path>
-		<name>Custer's Revenge</name>
-		<desc>You are General Custer. Your dander's up, your pistol's wavin‘. You've set your sights on a ravishing maiden named Revenge: but she's not about to take it lying down, by George! Help is on the way. If you're to get to Revenge you'll have to rise to the challenge, dodge a tribe of flying arrows and protect your flanks against some downright mean and prickly cactus. But if you can stand pat and last post the stings and arrows - you can stand last.
-
-Remember! Revenge is sweet. Everytime ol' Custer scores he comes up smilin‘ and right back for more. The higher the score. the more challenging the game action gets.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/atari2600/Custer's Revenge (1982) (Mystique - American Multiple Industries, Joel H. Martin) (1001) ~-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19821018T000000</releasedate>
-		<developer>Mystique</developer>
-		<publisher>Mystique</publisher>
 		<genre>Action</genre>
 	</game>
 	<game>
@@ -79,6 +66,21 @@ Remember! Revenge is sweet. Everytime ol' Custer scores he comes up smilin‘ an
 		<developer>Atari</developer>
 		<publisher>Sears, Roebuck and Co</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
+	</game>
+	<game>
+		<path>./Custer's Revenge (1982) (Mystique - American Multiple Industries, Joel H. Martin) (1001) ~.zip</path>
+		<name>Custer's Revenge</name>
+		<desc>You are General Custer. Your dander's up, your pistol's wavin‘. You've set your sights on a ravishing maiden named Revenge: but she's not about to take it lying down, by George! Help is on the way. If you're to get to Revenge you'll have to rise to the challenge, dodge a tribe of flying arrows and protect your flanks against some downright mean and prickly cactus. But if you can stand pat and last post the stings and arrows - you can stand last.
+
+Remember! Revenge is sweet. Everytime ol' Custer scores he comes up smilin‘ and right back for more. The higher the score. the more challenging the game action gets.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/atari2600/Custer's Revenge (1982) (Mystique - American Multiple Industries, Joel H. Martin) (1001) ~-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19821018T000000</releasedate>
+		<developer>Mystique</developer>
+		<publisher>Mystique</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20181219T114131</lastplayed>
 	</game>
 </gameList>
