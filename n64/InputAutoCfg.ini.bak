@@ -1,0 +1,107 @@
+; InputAutoCfg.ini for Mupen64Plus SDL Input plugin
+
+; Keyboard_START
+[Keyboard]
+plugged = True
+plugin = 2
+mouse = False
+DPad R = key(100)
+DPad L = key(97)
+DPad D = key(115)
+DPad U = key(119)
+Start = key(13)
+Z Trig = key(122)
+B Button = key(306)
+A Button = key(304)
+C Button R = key(108)
+C Button L = key(106)
+C Button D = key(107)
+C Button U = key(105)
+R Trig = key(99)
+L Trig = key(120)
+Mempak switch = key(44)
+Rumblepak switch = key(46)
+X Axis = key(276,275)
+Y Axis = key(273,274)
+; Keyboard_END
+
+; Microsoft X-Box 360 pad_START 
+[Microsoft X-Box 360 pad]
+plugged = True
+plugin = 2
+mouse = False
+AnalogDeadzone = 4096,4096
+AnalogPeak = 32768,32768
+Mempak switch = button(9) 
+Rumblepak switch = button(10) 
+C Button D = button(0) axis(4+) 
+C Button L = axis(3-) 
+Start = button(7) 
+C Button U = button(2) axis(4-) 
+DPad D = hat(0 Down) 
+X Axis = axis(0-,0+)
+R Trig = button(5) 
+DPad R = hat(0 Right) 
+DPad L = hat(0 Left) 
+Y Axis = axis(1-,1+)
+DPad U = hat(0 Up) 
+A Button = button(1) 
+B Button = button(3) 
+C Button R = axis(3+) 
+Z Trig = button(4) 
+; Microsoft X-Box 360 pad_END 
+
+; 8Bitdo SF30 Pro_START 
+[8Bitdo SF30 Pro]
+plugged = True
+plugin = 2
+mouse = False
+AnalogDeadzone = 4096,4096
+AnalogPeak = 32768,32768
+Mempak switch = button(13) 
+Rumblepak switch = button(14) 
+C Button D = button(0) axis(3+) 
+C Button L = axis(2-) 
+Start = button(11) 
+C Button U = button(3) axis(3-) 
+DPad D = hat(0 Down) 
+X Axis = axis(0-,0+)
+R Trig = button(7) 
+DPad R = hat(0 Right) 
+DPad L = hat(0 Left) 
+Y Axis = axis(1-,1+)
+DPad U = hat(0 Up) 
+A Button = button(1) 
+B Button = button(4) 
+C Button R = axis(2+) 
+Z Trig = button(6) 
+; 8Bitdo SF30 Pro_END 
+
+
+; 8Bitdo SN30 Pro_START 
+[8Bitdo SN30 Pro]
+plugged = True
+plugin = 2
+mouse = False
+AnalogDeadzone = 4096,4096
+AnalogPeak = 32768,32768
+Mempak switch = button(13) 
+Rumblepak switch = button(14) 
+C Button D = button(0) axis(3+) 
+C Button L = axis(2-) 
+L Trig = button(6) 
+Start = button(11) 
+C Button U = button(3) axis(3-) 
+DPad D = hat(0 Down) 
+X Axis = axis(0-,0+)
+R Trig = button(7) 
+DPad R = hat(0 Right) 
+DPad L = hat(0 Left) 
+Z Trig = button(8) 
+Y Axis = axis(1-,1+)
+DPad U = hat(0 Up) 
+A Button = button(1) 
+B Button = button(4) 
+C Button R = axis(2+) 
+; 8Bitdo SN30 Pro_END 
+

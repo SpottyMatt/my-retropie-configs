@@ -1,0 +1,372 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Banjo-Kazooie (USA).z64</path>
+		<name>Banjo-Kazooie</name>
+		<desc>Action and Puzzles and Bears. Oh My!
+
+Trouble brews when Gruntilda the witch captures the unbearably beautiful cub, Tooty. But before the grisly hag can steal the bear’s good looks, big brother Banjo and his fine-feathered friend, Kazooie, join forces to stop her. Combining their 24 moves and special powers, Banjo and Kazooie will fend off armies of beasts. Bear and bird must hunt down the 100 puzzle pieces and 900 musical notes that will ultimately lead them to Gruntilda. However, miles of swamp, desert and snow and one bear of an adventure stand in their way.
+
+• Soar over islands to scout out buried treasure.
+• Brave past whirling blades in the belly of a mechanical shark.
+• With some voodoo magic, transform into different creatures to gain special powers.
+• Solve the puzzles of the ancients to unearth the cursed labyrinths.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Banjo-Kazooie (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19980629T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Busted/007 - GoldenEye (USA).z64</path>
+		<name>GoldenEye 007</name>
+		<desc>You are Bond, James Bond.
+
+You are assigned to covert operations connected with the GoldenEye weapons satellite.  M will brief you on your mission and objectives from London.  Q Branch will support your efforts with a plentiful supply of weapons and gadgets.  Moneypenny offers you light-hearted best wishes and you’re off!
+
+Your mission begins in the heavily guarded chemical warfare facility at the Byelomorye Dam in the USSR.  Look and shoot in any direction as you navigate 12 interactive 3-D environments.  Use stealth and force as you see fit in matters of international security.  Consider the military personnel expendable.  You are licensed to kill!
+
+* Exciting 3-D environments.
+* Highly intelligent enemies!
+* Numerous Q gadgets and weapons!
+* Battery-backed memory saves game progress!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/007 - GoldenEye (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19970825T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Busted/BattleTanx - Global Assault (USA).z64</path>
+		<name>BattleTanx: Global Assault</name>
+		<desc>On January 13, 2006, a Queenlord, Cassandra, is spying on Griffin Spade's family, telling her troops to kidnap Griffin's son Brandon and kill everyone else. Griffin and his army manage to push back the invaders, but Cassandra soon turns the tables by mind-controlling Griffin's own army. Griffin and Madison manage to escape San Francisco and begin chasing Cassandra across the United States, eventually cornering her in Washington, D.C.. Cassandra, however, escapes with Brandon to Great Britain; Griffin and Madison follow. They build a new army in Europe, and chase Cassandra through England, France and Germany. While in Paris, they discover Cassandra released the virus in 2001 to kill every female on Earth who didn't have the power of the Edge.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/BattleTanx - Global Assault (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19991012T000000</releasedate>
+		<developer>3DO</developer>
+		<publisher>3DO</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Busted/Conker's Bad Fur Day (USA).z64</path>
+		<name>Conker's Bad Fur Day</name>
+		<desc>The day after his 21st birthday bash, Conker's sporting the worst hangover ever, and he just can't seem to find his way home. Prepare to stagger through randy, raunchy, raucous scenarios crammed full of bad manners, twisted humor, and graphic bodily functions. Unless you're a fan of violence, foul language, and racy innuendo, you'd best steer clear of this one.
+
+Although visually similar to Rare's family-oriented Nintendo 64 platform games Banjo-Kazooie and Donkey Kong 64, Conker's Bad Fur Day was designed for mature audiences and features graphic violence, alcohol and tobacco use, profanity, vulgar humor and pop culture references. It was developed over the course of four years and was originally intended for a family audience, but was ultimately retooled into its current form because previews were criticised for being both too cute and similar to Rare's earlier platform games.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Conker's Bad Fur Day (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20010304T000000</releasedate>
+		<developer>Rare Ltd.</developer>
+		<publisher>Rare Ltd.</publisher>
+		<genre>Platform</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Busted/Hydro Thunder (USA).z64</path>
+		<name>Hydro Thunder</name>
+		<desc>The gameplay of Hydro Thunder consists of racing high-tech speedboats through treacherous environments, from the cold seas of the Arctic Circle, to a post-apocalyptic, flooded version of New York City.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Hydro Thunder (USA)-image.jpg</image>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Midway Games</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Vehicle Simulation</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Busted/Paper Mario (USA).z64</path>
+		<name>Paper Mario</name>
+		<desc>Mario pals around in an all-new action adventure! Mario's back in his first adventure since Super Mario 64, and this time, Bowser's bent on preventing a storybook ending. When Princess Peach is kidnapped, Mario plots to rescue the seven Star Spirits and rid the Mushroom Kingdom of Koopa's cruel cohorts. As he travels from the tropical jungles of Lavalava Island to the frosty heights of Shiver Mountain, he'll meet up with seven all-new companions... and he'll need help from each one or there'll be no happily ever after.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Paper Mario (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20010205T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Busted/Pokemon Puzzle League (USA).z64</path>
+		<name>Pokémon Puzzle League</name>
+		<desc>Discover the most frantic, frenzied, fun-filled Pokémon challenge ever--Pokémon Puzzle League! Line up three or more blocks of the same type to clear them off the screen. Create chains and combos to send garbage to your opponent. Collect badges from other Pokémon trainers to earn the right to enter the ultimate competition... a battle against the mysterious Puzzle Master!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Pokemon Puzzle League (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20000901T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Busted/Pokemon Snap (USA).z64</path>
+		<name>Pokémon Snap</name>
+		<desc>Professor Oak needs your help!
+
+The Professor has asked you to capture the Wild Pokémon of Pokémon Island… on film!  Tour the island in your ZERO-ONE vehicle and snap pictures of Pokémon in their natural habitat.  Wild Pokémon are often camera-shy, so you’ll have to use special items to bring them out in the open.  Only the best shots will do for the Professor’s Pokémon Report, so sharpen your photography skills and get ready to SNAP!
+
+* The first-ever N64 game to feature the world-famous Pokémon--fully rendered in 3-D!
+* Explore the many environments of Pokémon Island, like the sunny beach, the mysterious caves, and even a red-hot volcano!
+* Many different types of Pokémon inhabit the island.  See how many you can catch on film!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Pokemon Snap (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19990630T000000</releasedate>
+		<developer>HAL Laboratory | Pax Softnica</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Life Simulation</genre>
+	</game>
+	<game>
+		<path>./Busted/Quake II (USA).z64</path>
+		<name>Quake II</name>
+		<desc>Quake II takes place in a science fiction environment. In the single-player game, the player assumes the role of a Marine named Bitterman taking part in "Operation Alien Overlord", a desperate attempt to protect Earth from alien invasion by launching a counter-attack on the home planet of the hostile cybernetic Strogg civilization. Most of the other soldiers are captured or killed almost as soon as they enter the planet's atmosphere, so it falls upon Bitterman to penetrate the Strogg capital city alone and ultimately to assassinate the Strogg leader, Makron.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Quake II (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19990630T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Busted/Resident Evil 2 (USA).z64</path>
+		<name>Resident Evil 2</name>
+		<desc>Ready or not, the terror of Resident Evil 2 is here. In chapter one, the case of the disastrous T-virus outbreak--a mutagenic toxin designed for biological weapons--was eventually closed but the experiments were far from over. Control the destiny of Leon Kennedy or Claire Redfield as their nightmare begins when a biotech terror runs rampant in Raccoon City. Relentless zombies and hideous monsters are all out for a taste of your blood. If the suspense doesn't kill you, something else will.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Resident Evil 2 (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19980121T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Busted/Yoshi's Story (USA) (En,Ja).z64</path>
+		<name>Yoshi's Story</name>
+		<desc>Baby Bowser has taken the Super Happy Tree and cast a spell on Yoshi's world, turning it into the pages of a picture book.  The only Yoshis not affected by the spell were six hatchlings that were still protected by their shells.  It's up to them to reclaim the Super Happy Tree and restore happiness to the world.  That is the only thing that can break Baby Bowser's Spell!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Yoshi's Story (USA) (En,Ja)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19980301T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Donkey Kong 64 (USA).z64</path>
+		<name>Donkey Kong 64</name>
+		<desc>K. Rool has kidnapped the Kongs! Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his homeland from certain doom? Take out some Kremlings with Chunky's Pineapple Launcher or Lanky's Trombone. Float through the air using Tiny's Ponytail Twirl. Even rocket to the sky with Diddy's Jetbarrel!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Donkey Kong 64 (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19991124T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./F-Zero X (USA).z64</path>
+		<name>F-Zero X</name>
+		<desc>It's you against 29 other machines competing for the title of F-Zero X Champion. You're racing at speeds of over 1,000 km/h high above the atmosphere. Your competition comes from every corner of the galaxy and won't shed a tear at the thought of smashing you off the track. With four-player simultaneous gameplay and the Rumble Pak accessory, you have the fastest racing game on the N64 system!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/F-Zero X (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19980714T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Kirby 64 - The Crystal Shards (USA).z64</path>
+		<name>Kirby 64: The Crystal Shards</name>
+		<desc>Kirby's first 3-D adventure is also his Nintendo 64 debut, and it finds the always-versatile hero battling a new enemy called Dark Matter. Dark Matter is after a distant land's powerful crystal, but a young fairy named Ribbon attempts to save it by escaping with the gem to Dream Land. Now the crystal has been broken, and it's scattered around the world. Take control of Kirby and help him journey across six worlds, battling a wide variety of enemies and challenging bosses, as he tries to collect all 100 pieces of the shattered crystal.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Kirby 64 - The Crystal Shards (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20000626T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Mario Kart 64 (USA).z64</path>
+		<name>Mario Kart 64</name>
+		<desc>Three… Two… One… GO!  The signal light changes and you drop the pedal to the metal.  Take on up to three friends in the split-screen VS games, or race solo in the Mario GP.  Tell your friends to bring it on in the highly competitive Battle mode.  Advanced features allow you to race with your “Ghost”.  The driving data from your best run appears as a transparent character on the screen.  No longer must you simply race against the clock -- you can actually race against yourself!
+
+* Save your hottest Ghost data to a portable N64 Controller Pak!
+* Collect multiple power-up items!
+* Twenty different courses -- 4 Cups with 4 courses each and 4 special Battle mode courses!
+* Everyone’s favorite characters are back and gorgeously rendered, including two new additions, Donkey Kong and Wario!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Mario Kart 64 (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19970210T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Mario Party 3 (USA).z64</path>
+		<name>Mario Party 3</name>
+		<desc>Mario Party 3 is the third and final Mario Party title for the Nintendo 64. A total of eight characters are available to choose from: Mario, Luigi, Princess Peach, Yoshi, Wario, Donkey Kong, and newcomers Waluigi and Princess Daisy. Mario Party 3 features duel maps, in which two players try to lower each other's stamina to zero using non-playable characters such as Chain Chomps. It is the first Mario Party game to feature Luigi's main voice and also it is last Mario game where Princess Daisy appears in a yellow and white dress, and with long hair, as well as the last Mario game (until New Super Mario Bros. Wii) in which Yoshi's "record-scratching" voice is used. It is also the first Mario Party game to have multiple save slots.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Mario Party 3 (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>20010507T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Untested/Harvest Moon 64 (USA).z64</path>
+		<name>Harvest Moon 64</name>
+		<desc>Retire to the country for a new challenge in Harvest Moon 64. Hard work is rewarded as you struggle to bring prosperity back to a neglected farm. Work the land, pick up odd-jobs, and get to know the neighbors. Harvest Moon 64 has all the charm of the original Super Nintendo classic, plus many new surprises.
+
+* Tons of new seasonal vegetables and fruits.
+* Raise cows, chickens, and sheep.
+* New items and gifts. Including tools that increase in power as you master them.
+* One of town's five eligible women may prove to be the love of your life.
+* Celebrate seasonal festivals with the nearby townsfolk.
+* Enjoy local horse and dog racing.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Harvest Moon 64 (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19991130T000000</releasedate>
+		<developer>Toy Box Studios</developer>
+		<publisher>Natsume</publisher>
+		<genre>Construction and Management Simulation</genre>
+	</game>
+	<game>
+		<path>./Untested/Legend of Zelda, The - Majora's Mask (USA).z64</path>
+		<name>The Legend of Zelda: Majora's Mask</name>
+		<desc>Link’s all-new epic adventure lands him in the mystical world of Termina, where ever-present clocks count down the hours until a menacing moon falls from the sky above.  When his horse and Ocarina are stolen by a strange, masked figure, Link embarks on an urgent quest to solve the mystery of the moon, save the world from destruction, and find his way back to the peaceful land of Hyrule!
+
+* Link transforms before your eyes--Over 20 magical masks give Link powers and abilities he’s never had before!  Watch him transform into a hapless Deku child, a mighty Goron hero and a legendary Zora guitarist.
+* Race against time--Characters and events flow with the hours of the day.  Set your own schedule and even alter time itself in a race to stop the moon and save the world!
+* Panoramic environments!  Powered-up action battles!  Fully interactive characters and events!  Experience gorgeous rendered landscapes, swarms of attacking enemies and a deep, engrossing world of wonders with the power of the N64 Expansion Pak.
+
+Also Available
+The Legend of Zelda: Majora's Mask Collector's Edition</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Legend of Zelda, The - Majora's Mask (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20001026T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Untested/Legend of Zelda, The - Ocarina of Time (USA).z64</path>
+		<name>The Legend of Zelda: Ocarina of Time</name>
+		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule.  He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce.  As the young hero Link, it is your destiny to thwart Ganondorf’s evil schemes.  Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora’s Domain.  Before you complete this epic quest, you’ll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.
+
+• The immersive storyline and environments draw players into an amazing 3D world.
+• Time travel allows you to play as Link in different stages of his life.
+• New gameplay features include a unique targeting system and 1st and 3rd person perspectives.
+• Up to three games can be saved simultaneously to memory!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Legend of Zelda, The - Ocarina of Time (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19981123T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Untested/Mega Man 64 (USA).z64</path>
+		<name>Mega Man 64</name>
+		<desc>Mega Man Volnutt is the game's playable character. Mega Man Volnutt is a "Digger", a person in charge of investigating ruins from a flooded Earth. During his journey with his friends, their ship crashes in Kattelox Island, where Mega Man decides to confront pirates who are attacking it to obtain the its hidden treasure. As an action roleplaying game, Mega Man Legends's gameplay is very different from the ones of the original series despite sharing a few elements.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Mega Man 64 (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20001122T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Untested/Neon Genesis Evangelion (Japan).z64</path>
+		<name>Neon Genesis Evangelion</name>
+		<desc>This game is an interactive adaptation of Neon Genesis Evangelion for N64. Called Shinseki Evangelion in Japan, the Gainax-produced anime series originally aired from October '95 to March '96 and soon spawned a feature movie release in '97. The N64 game starts in the year 2015, 15 years after Second Impact. The Angels have returned and suddenly attack Tokyo-3. Using so-called "terror-fields" that cannot be penetrated by ordinary weapons, the Angels are taking on every human force sent out to oppose them. That's where you come in. As the pilot of the NERV-designed Evangelions, Shinji Ikari, you take your giant humanoid combat mech into battle with the Angels. Gameplay can best be described as interactive anime, as it relies heavily on timed button presses.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Neon Genesis Evangelion (Japan)-image.jpg</image>
+		<releasedate>19990625T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Untested/Perfect Dark (USA).z64</path>
+		<name>Perfect Dark</name>
+		<desc>Step into the Dark... As Carrington Institute's most promising new Agent, Joanna Dark must uncover the truth behind the dataDyne Corporation's recent technological breakthroughs - breakthroughs which could have serious consequences for mankind.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Perfect Dark (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20000522T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Rare</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Untested/Pokemon Stadium 2 (USA).z64</path>
+		<name>Pokémon Stadium 2</name>
+		<desc>Hundreds of Pokémon in Three-mendous 3-D! What's sweeter than victory in a Pokémon battle? Victory in a 3-D arena on the N64! Set your strategy, then stand back while your Pokémon battle it out. You can even see the Pokémon you've trained—fully rendered in 3-D and ready for battle!
+
+• Nearly 250 Pokémon! Transfer Pokémon from the Red, Blue, Yellow - even Silver and Gold--versions of Pokémon for Game Boy. Or play with Rental Pokémon included int he game.
+• See them all in glorious 3-D! Ho-oh, Lugia, Entei and Pichu against all-time favorites, like Mewtwo, Charizard, Blastoise and Pikachu.
+• Become the Stadium Champion! Take on 21 Pokémon Trainers in the Gym Leader Castle to try to win it all!
+• 12 all-new mini-games! Try to bump other Hitmontop out of the arena in Topsy-Turvy--or charge up more energy than anyone else in Pichu's Power Plant.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Pokemon Stadium 2 (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>20010328T000000</releasedate>
+		<developer>Nintendo EAD, HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Untested/Star Fox 64 (USA).z64</path>
+		<name>Star Fox 64</name>
+		<desc>The Lylat system has been invaded!  Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross.  Travel to many different 3-D worlds.  Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.
+
+See how it feels to feel what you see!  The N64 Rumble Pak controller accessory instantly transmits all the bumps and blasts during the action.  It’s a new jolt to your game play experience!
+
+* Four Players compete simultaneously in Vs. mode!
+* Game Pak memory saves the top 10 scores!
+* Outstanding cinema scenes tell the Star Fox saga!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Star Fox 64 (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19970630T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Untested/Star Wars - Rogue Squadron (USA).z64</path>
+		<name>Star Wars: Rogue Squadron</name>
+		<desc>Fly against the evil Empire! As Luke Skywalker, co-founder of the Rebel Alliance's elite Rogue Squadron, you must combat the evil Galactic Empire! Engage in intense, fast-paced planetary air-to-ground and air-to-air missions - dogfights, search and destroy, reconnaissance, bombing runs, rescue assignments and more! Pilot X-wings, Y-wings, A-wings, V-wings and Snowspeeders with powerful weapons in over 15 missions battling TIE fighters, TIE bombers, Imperial shuttles, AT-AT walkers, AT-STs and other challenging foes.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Star Wars - Rogue Squadron (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19981203T000000</releasedate>
+		<developer>Factor 5</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Untested/Star Wars - Shadows of the Empire (USA).z64</path>
+		<name>Star Wars: Shadows of the Empire</name>
+		<desc>A long time ago in a galaxy far, far away... As Luke Skywalker and the Rebel Alliance struggle to defeat Darth Vader and the Empire, a new threat arises. Dark Prince Xizor, head of the Black Sun crime syndicate, aspires to take Darth Vader's place at the Emperor's side. To do that, he must eliminate young Skywalker. As Dash Rendar, it's up to you to protect Luke and help the Alliance defeat the evil Xizor. Watch out for infamous bounty hunters and deadly stormtroopers! May the Force be with you!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Star Wars - Shadows of the Empire (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19961203T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Untested/Super Smash Bros. (USA).z64</path>
+		<name>Super Smash Bros.</name>
+		<desc>It's a Bumpin', Bruisin', Brawlin' Bash! The many worlds of Nintendo collide in the ultimate showdown of strength and skill! Up to four players can choose their favorite characters - complete with signature attacks - and go at it in Team Battles and Free-For-Alls. Or venture out on your own to conquer the 14 stages in single-player mode. Either way, Super Smash Bros. is a no-holds-barred action-fest that will keep you coming back for more!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/n64/Super Smash Bros. (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19990426T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>4+</players>
+	</game>
+</gameList>

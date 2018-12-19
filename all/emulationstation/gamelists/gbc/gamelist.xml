@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Pokemon Pinball.gbc</path>
+		<name>Pokémon Pinball</name>
+		<desc>There are two tables in the game, red and blue. Each table has its own details and gameplay elements.
+
+Each table has different "locations" that you play, which determine which Pokémon are available for capture. A subset of available locations are displayed slot-machine style in the beginning of a game, and pressing A will select your starting location and launch the first ball into play. After that, each table has its own mechanism for advancing to the next location, including the locations not available at the start of the game.
+
+"Catch Mode," when activated, starts a 2 minute window of opportunity where you can attempt to capture a Pokémon. Once you activate "catch mode," you must hit the pop bumpers 6 times. Each hit unlocks 1/6 of an image of the Pokémon currently up for capture. Once the image is complete, the Pokémon appears on the table, where it must be hit 4 times with the ball to capture it.
+
+"Evolution Mode," when activated, starts a 2 minute window of opportunity where you select a captured Pokémon (from the current game in progress only) and attempt to evolve it into another form. This is the only way to add the evolved form to your Pokédex. Once you select a Pokémon, you must hit targets on the playfield. There are up to 6 targets, but only 3 of them have items in them you need to evolve a Pokémon. The others create a time-wasting sequence before you can hit targets again. If you hit a target with an item, the item appears on the playfield and must be collected with the ball. Once you've collected 3 items, the hole in the center of the board opens up. Sinking the ball in the hole successfully evolves the Pokémon.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/gbc/Pokemon Pinball-image.jpg</image>
+		<releasedate>19990628T000000</releasedate>
+		<developer>Jupiter</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Pokemon Puzzle Challenge.gbc</path>
+		<name>Pokémon Puzzle Challenge</name>
+		<desc>In a rising pit of colored blocks, it's your task to continuously eliminate these tiles by switching two tiles' positions on the horizontal row. When three or more tiles link up in a up/down or left/right fashion, they disappear. Gravity kicks in and settles the rest of the tiles into the bin ? this can cause a chain reaction to occur since other blocks of the same color can fall into place next to each other. It's up to you to continuously work the bin to wipe out tiles by making combination connections and chain reactions. That's the game in a nutshell, but there are several modes of play that'll keep your fingers busy. In the game's Challenge mode, for example, you're up against a computer opponent and you'll have to make combos and chain reactions to send garbage blocks to his unseen screen -- but keep in mind your opponent's doing the same to you.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/gbc/Pokemon Puzzle Challenge-image.png</image>
+		<releasedate>20001204T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Wario Land 3.gbc</path>
+		<name>Wario Land 3</name>
+		<desc>Trapped inside a magical music box, the invincible Wario is on a dangerous quest to help a mysterious figure recover its lost powers! Smash, bash and crash your way through more than two dozen gigantic levels in search of hidden keys, valuable treasures and mystical music boxes. Test your wits on puzzle after intricate puzzle and flex your muscles in action-packed boss fights! Be wary of Wanderin' Gooms, Hammer-bots, Mad Scienstein and more as you plunge into one of the largest, most dazzling adventures ever to hit Game Boy Color!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/gbc/Wario Land 3-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>20000501T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Shantae.gbc</path>
+		<name>Shantae</name>
+		<desc>Genie-girl Shantae is the self-appointed guardian of a small fishing village, Scuttle Town. Living life in a lighthouse rather than a bottle, she's constantly on the lookout for danger. When the nefarious lady-pirate, Risky Boots catches wind of the treasure that was recently unearthed in the village, she launches an attack. To get Scuttle out of trouble, it's up to Shantae to prove that she's the rightful 'Guardian Genie' to the best of her dancing, buying and hair-whipping abilities. Now crack that whip!
+
+* Play on the Game Boy Advance system for enhanced color and to unlock hidden secrets!
+* Over 50 Locations and Mini-Games!
+* Learn 'Dance Magic' to transform Shantae and learn new attacks!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/gbc/Shantae-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>20020602T000000</releasedate>
+		<developer>WayForward</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20181219T091547</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Classics/asteroid.zip</path>
+		<name>Asteroids</name>
+		<desc>The objective of Asteroids is to score as many points as possible by destroying asteroids and flying saucers. The player controls a triangular-shaped ship that can rotate left and right, fire shots straight forward, and thrust forward. As the ship moves, momentum is not conserved — the ship eventually comes to a stop again when not thrusting. The player can also send their ship into hyperspace, causing it to disappear and reappear in a random location on the screen (with the risk of self-destructing or appearing on top of an asteroid).</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/asteroid-image.jpg</image>
+		<releasedate>19790701T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Classics/centipd2.zip</path>
+		<name>Centipede</name>
+		<desc>Centipede is a vertically oriented shoot 'em up arcade game produced by Atari, Inc. in 1980. The game was designed by Ed Logg and Dona Bailey. The player defends against centipedes, spiders, scorpions and fleas, completing a round after eliminating the centipede that winds down the playing field.
+
+The centipede starts at the top of the screen, traveling either left or right. When it hits a mushroom or the edge of the screen, it drops one level and switches direction. Thus, more mushrooms on the screen cause the centipede to descend more rapidly. The player can destroy mushrooms by shooting them, but each takes four hits to destroy.
+
+If the centipede reaches the bottom of the screen, it moves back and forth within the player area and one-segment "head" centipedes are periodically added. This continues until the player has eliminated both the original centipede and all heads. When all the centipede's segments are destroyed, a new centipede forms at the top of the screen. Every time a centipede is eliminated, however, the next one is one segment shorter and is accompanied by one additional, fast-moving "head" centipede.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/centipd2-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Classics/digdug.zip</path>
+		<name>Dig Dug</name>
+		<desc>Dig Dug is an arcade game developed and published by Namco in Japan in 1982 for Namco Galaga hardware. It was later published outside of Japan by Atari. A popular game based on a simple concept, it was also released as a video game on many consoles.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/digdug-image.jpg</image>
+		<releasedate>19820419T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Classics/dlair.zip</path>
+		<name>Dragon's Lair</name>
+		<desc>Dragon's Lair is a laserdisc video game published by Cinematronics in 1983 as the first game in the Dragon's Lair series. In the game, the protagonist Dirk the Daring is a knight attempting to rescue Princess Daphne from the evil dragon Singe who has locked the princess in the foul wizard Mordroc's castle. It featured animation by ex-Disney animator Don Bluth.
+
+Most other games of the era represented the character as a sprite, which consisted of a series of pixels displayed in succession. Due to hardware limitations of the era, artists were greatly restricted in the detail they could achieve using that technique; the resolution, framerate and number of frames were severely constrained. Dragon's Lair overcame those limitations by tapping into the vast storage potential of the LaserDisc, but imposed other limitations on the actual gameplay.
+
+The success of the game sparked numerous home ports, sequels and related games. In the 21st century it has been repackaged in a number of formats (such as for the iPhone) as a "retro" or historic game.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/dlair-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Classics/galaga.zip</path>
+		<name>Galaga</name>
+		<desc>Galaga is a fixed shooter arcade game developed and published by Namco in Japan and published by Midway in North America in 1981. It is the sequel to Galaxian, released in 1979. The gameplay of Galaga puts the player in control of a space ship which is situated on the bottom of the screen. At the beginning of each stage, the area is empty, but over time, enemy aliens fly in formation, and once all of the enemies arrive on screen, they will come down at the player's ship in formations of one or more and may either shoot it or collide with it. During the entire stage, the player may fire upon the enemies, and once all enemies are vanquished, the player moves onto the next stage.
+
+Galaga has proven very successful. The arcade version of it has been ported to many consoles, and it has had several sequels, most recently Galaga Legions for the PlayStation Network and Xbox Live Arcade services.
+
+The objective of Galaga is to score as many points as possible by destroying insect-like enemies. The player controls a starfighter that can move left and right along the bottom of the playfield. Enemies swarm in groups in a formation near the top of the screen, and then begin flying down toward the player, firing bombs at the fighter. The game ends when the player's last fighter is lost, either by colliding with an enemy or one of its bullets, or by being captured.
+
+Galaga introduces a number of new features over its predecessor, Galaxian. Among these is the ability to fire more than one bullet at a time, a count of the player's "hit/miss ratio" at the end of the game, and a bonus "Challenging Stage" that occurs every few levels, in which a series of enemies fly onto and out of the screen in set patterns without firing at the player's ship or trying to crash into it.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/galaga-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19810801T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Classics/gaunt2.zip</path>
+		<name>Gauntlet II</name>
+		<desc>The gameplay is very similar to the original Gauntlet, a topdown dungeon crawl supporting up to four players. The biggest difference from the original game is that players can choose identical classes, instead of being limited to a particular one for each joystick; the players being differentiated by colors. Thus, instead of having a "warrior", "wizard", and "valkyrie" (for instance), in Gauntlet II there could be a "red wizard", a "blue elf" and a "green warrior".
+
+In addition to the new "class" system, new level designs were added, including the possibility of encountering them in altered ways by having the playfield turned in steps of 90°.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/gaunt2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19860801T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Classics/joust.zip</path>
+		<name>Joust</name>
+		<desc>Joust is an arcade game developed by Williams Electronics and released in 1982. It is a platform game that features two-dimensional (2D) graphics. The player uses a button and joystick to control a knight riding a flying ostrich. The object is to progress through levels by defeating groups of enemy knights riding buzzards.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/joust-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Classics/pacman.zip</path>
+		<name>Pac-Man</name>
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
+
+Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde). One touch from any of these ghosts means a loss of life for Pac-Man.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/pacman-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19801001T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco, Midway</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Classics/invaders.zip</path>
+		<name>Space Invaders</name>
+		<desc>Space Invaders is a two-dimensional fixed shooter game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. The aim is to defeat five rows of eleven aliens—some versions feature different numbers—that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens' movement and the game's music both speed up. Defeating the aliens brings another wave that is more difficult, a loop which can continue indefinitely.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/invaders-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19780601T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./digdug2.zip</path>
+		<name>Dig Dug II</name>
+		<desc>The player controls Taizo Hori (he was known as Dig Dug when the game was released) from the previous game and must wipe out the enemies on the island. A level is cleared when all of the enemies are defeated.
+
+The biggest difference is that the game is an overhead view on an island, and requires Taizo to destroy the island and defeat the enemies (rather than digging underground). Because of this, Taizo cannot use rocks to defeat enemies.
+
+Taizo has two weapons in this game, a jackhammer and his air pump. The pump can be used to inflate the enemies until they pop, while the jackhammer can be drilled into faults. When the faults connect to the edge or any other faults, the entire section on the island will crumble into the water. Taizo can clear large amounts of enemies this way, but he can fall into the water as well.
+
+The Pooka and Fygar enemies return and the Fygars can still shoot fire out of their mouths at Taizo. The player loses a life if he collides with it. The enemies can phase through the fault lines to get to another area (mostly where the player is).</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/digdug2-image.png</image>
+		<releasedate>19850312T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco-Bandai</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./poleps2a.zip</path>
+		<name>Pole Position II</name>
+		<desc>Pole Position II is a 1-player game using a color raster-scan video display. Game action takes place at 4 different raceways - the Fuji Speedway in Japan, the Test Track (an oval track like Indy), the Seaside Speedway (with the Long Beach Pike in the background), and the Suzuka Speedway in Japan. The unique and picturesque scenery around each raceway adds exciting realism to each race!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/poleps2a-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./1944.zip</path>
+		<name>1944: The Loop Master</name>
+		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/1944-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20000620T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>8ing/Raizing</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./dino.zip</path>
+		<name>Cadillacs and Dinosaurs</name>
+		<desc>Cadillacs and Dinosaurs: The Arcade Game is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/dino-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930420T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>3</players>
+	</game>
+</gameList>
