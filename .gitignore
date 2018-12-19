@@ -1,6 +1,9 @@
+es_log.txt*
+
 *.ttf
 *.png
 *.jpg
+
 !**/downloaded_images/**/*.png
 !**/downloaded_images/**/*.jpg
 
