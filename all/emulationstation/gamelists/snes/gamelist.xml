@@ -29,20 +29,6 @@ The millennium. A portal is opened. The chain of time is broken. A young man is 
 		<genre>Role-Playing</genre>
 	</game>
 	<game>
-		<path>./Donkey Kong Country (USA).sfc</path>
-		<name>Donkey Kong Country</name>
-		<desc>Madness and Mayhem in this 3-D Gorilla Thriller!
-
-Donkey Kong is back with a new sidekick, Diddy Kong, in a crazy island adventure! Challenged by the crazed tribe of reptilian Kremlings, they endeavor to get back their stolen banana horde! Armed with lightning-quick moves, chest-pounding muscle and awesome aerial acrobatics, our duo is ready to face their cunning adversaries. With the help of Donkey Kong's quirky family and his wild animal mounts, they squabble and scamper their way through the unending monkey mayhem!</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/snes/Donkey Kong Country (USA)-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19941121T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./EarthBound (USA).sfc</path>
 		<name>EarthBound</name>
 		<desc>Intergalactic terror stikes the small town of Onett as a blazing extraterrestrial object crashes in the night! The earth now faces imminent destruction by the universal evil threat known as Giygas! Armed with a cracked baseball bat, a cookie and an ATM card, a courageous boy named Ness vows to save the planet from hideous destruction. He must first find his heroic companions, Paula, Jeff and Poo. Will Ness succeed in his attempts to ambush countless frightening monsters as he travels? The ultimate test lies in the impending encounter with the all powerful Giygas!</desc>
@@ -181,5 +167,21 @@ An army of ominous creatures are poised for battle at every turn of Zebes’ twi
 		<developer>Intelligent Systems</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Donkey Kong Country (USA).sfc</path>
+		<name>Donkey Kong Country</name>
+		<desc>Madness and Mayhem in this 3-D Gorilla Thriller!
+
+Donkey Kong is back with a new sidekick, Diddy Kong, in a crazy island adventure! Challenged by the crazed tribe of reptilian Kremlings, they endeavor to get back their stolen banana horde! Armed with lightning-quick moves, chest-pounding muscle and awesome aerial acrobatics, our duo is ready to face their cunning adversaries. With the help of Donkey Kong's quirky family and his wild animal mounts, they squabble and scamper their way through the unending monkey mayhem!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/snes/Donkey Kong Country (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20181223T223712</lastplayed>
 	</game>
 </gameList>
