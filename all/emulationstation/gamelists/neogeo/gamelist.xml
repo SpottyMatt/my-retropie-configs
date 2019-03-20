@@ -75,18 +75,6 @@ Then one day, the greedy, treasure-seeking mad scientist, Dr. De Playne appeared
 		<players>2</players>
 	</game>
 	<game>
-		<path>./wakuwak7.zip</path>
-		<name>Waku Waku 7</name>
-		<desc>Waku Waku 7 is a 2D fighting game in which players can choose from seven characters, each possessing one of the Waku Waku balls. Each character has a super meter that can be increased rapidly by successfully attacking opponents, but will also steadily increase even if the character isn't doing anything. Once filled up to level one the meter can be used in one of several ways. The characters each have several unique special moves activated with a joystick motion and one punch or kick button. By pressing both punch or kick buttons instead of just one players can unleash an enhanced version of the special attack that does more damage, but also uses up one level of the super meter. Players can also use two different types of desperation moves, both of which drain one level of the meter. The first type does moderate damage, but is executed reasonably fast. The second type does enormous damage, but has a charge time of several seconds during which they can be hit out of the desperation.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/neogeo/wakuwak7-image.jpg</image>
-		<rating>0.5</rating>
-		<releasedate>19961227T000000</releasedate>
-		<developer>Sunsoft</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./wjammers.zip</path>
 		<name>WindJammers</name>
 		<desc>Windjammers (known in Japan as Flying Power Disc) is an action sports game developed and released by Data East for arcades (running Neo Geo MVS hardware) on February 17, 1994.
@@ -147,5 +135,19 @@ Yet, once they were assimilated, they found no other purpose in life but to cont
 		<players>2</players>
 		<playcount>1</playcount>
 		<lastplayed>20181228T183221</lastplayed>
+	</game>
+	<game>
+		<path>./wakuwak7.zip</path>
+		<name>Waku Waku 7</name>
+		<desc>Waku Waku 7 is a 2D fighting game in which players can choose from seven characters, each possessing one of the Waku Waku balls. Each character has a super meter that can be increased rapidly by successfully attacking opponents, but will also steadily increase even if the character isn't doing anything. Once filled up to level one the meter can be used in one of several ways. The characters each have several unique special moves activated with a joystick motion and one punch or kick button. By pressing both punch or kick buttons instead of just one players can unleash an enhanced version of the special attack that does more damage, but also uses up one level of the super meter. Players can also use two different types of desperation moves, both of which drain one level of the meter. The first type does moderate damage, but is executed reasonably fast. The second type does enormous damage, but has a charge time of several seconds during which they can be hit out of the desperation.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/neogeo/wakuwak7-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19961227T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20190320T022502</lastplayed>
 	</game>
 </gameList>
