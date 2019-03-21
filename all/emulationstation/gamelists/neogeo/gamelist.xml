@@ -95,19 +95,6 @@ There are six characters to choose from, with specific abilities and their own c
 		<players>2</players>
 	</game>
 	<game>
-		<path>./wh2.zip</path>
-		<name>World Heroes 2</name>
-		<desc>The general premise in the series is that a scientist, Dr. Brown, having perfected a time machine, organized a tournament for various fighters throughout all of history to combat each other to see who is the world's mightiest fighter. True to this plot, many of the fighters are based on actual historical figures.
-This game also marked the debut of Jack and Ryofu, which many players considered to be unfairly powerful.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/neogeo/wh2-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19930604T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./blazstar.zip</path>
 		<name>Blazing Star</name>
 		<desc>Sometime in their past, the planets Remuria and Mutras started an interplanetary war that showed no sign of ending. The endless fight between the human-like inhabitants of the two planets had gone so long that weapon development moved into dangerous territory: Organic Weapon Production combined with alien technology. Soon, a sentient weapon - Brawshella - was born. Brawshella gathered all animal life on both planets and forced them to do its bidding and attack the humans. In a week, the humans were assimilated by Brawshella.
@@ -123,20 +110,6 @@ Yet, once they were assimilated, they found no other purpose in life but to cont
 		<lastplayed>20181219T112439</lastplayed>
 	</game>
 	<game>
-		<path>./mslug5.zip</path>
-		<name>Metal Slug 5</name>
-		<desc>A special disc that contains deep and intricate secrets about the Metal Slug project is stolen by a mysterious group called the Ptolemaic Army, whose specialty lies from within archaeological excavation and espionage. Marco and Tarma of the Peregrine Falcon Strike Force follow in hot pursuit against the group and in the process are joined by Eri and Fio of SPARROWS. Together once more, the quartet investigate the shrouded objective of the Ptolemaic Army.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/neogeo/mslug5-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>20031101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20181228T183221</lastplayed>
-	</game>
-	<game>
 		<path>./wakuwak7.zip</path>
 		<name>Waku Waku 7</name>
 		<desc>Waku Waku 7 is a 2D fighting game in which players can choose from seven characters, each possessing one of the Waku Waku balls. Each character has a super meter that can be increased rapidly by successfully attacking opponents, but will also steadily increase even if the character isn't doing anything. Once filled up to level one the meter can be used in one of several ways. The characters each have several unique special moves activated with a joystick motion and one punch or kick button. By pressing both punch or kick buttons instead of just one players can unleash an enhanced version of the special attack that does more damage, but also uses up one level of the super meter. Players can also use two different types of desperation moves, both of which drain one level of the meter. The first type does moderate damage, but is executed reasonably fast. The second type does enormous damage, but has a charge time of several seconds during which they can be hit out of the desperation.</desc>
@@ -149,5 +122,34 @@ Yet, once they were assimilated, they found no other purpose in life but to cont
 		<players>2</players>
 		<playcount>2</playcount>
 		<lastplayed>20190320T231518</lastplayed>
+	</game>
+	<game>
+		<path>./mslug5.zip</path>
+		<name>Metal Slug 5</name>
+		<desc>A special disc that contains deep and intricate secrets about the Metal Slug project is stolen by a mysterious group called the Ptolemaic Army, whose specialty lies from within archaeological excavation and espionage. Marco and Tarma of the Peregrine Falcon Strike Force follow in hot pursuit against the group and in the process are joined by Eri and Fio of SPARROWS. Together once more, the quartet investigate the shrouded objective of the Ptolemaic Army.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/neogeo/mslug5-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>20031101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20190320T235500</lastplayed>
+	</game>
+	<game>
+		<path>./wh2.zip</path>
+		<name>World Heroes 2</name>
+		<desc>The general premise in the series is that a scientist, Dr. Brown, having perfected a time machine, organized a tournament for various fighters throughout all of history to combat each other to see who is the world's mightiest fighter. True to this plot, many of the fighters are based on actual historical figures.
+This game also marked the debut of Jack and Ryofu, which many players considered to be unfairly powerful.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/neogeo/wh2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930604T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20190320T235846</lastplayed>
 	</game>
 </gameList>

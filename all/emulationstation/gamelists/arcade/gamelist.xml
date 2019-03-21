@@ -141,17 +141,6 @@ The Pooka and Fygar enemies return and the Fygars can still shoot fire out of th
 		<players>2</players>
 	</game>
 	<game>
-		<path>./poleps2a.zip</path>
-		<name>Pole Position II</name>
-		<desc>Pole Position II is a 1-player game using a color raster-scan video display. Game action takes place at 4 different raceways - the Fuji Speedway in Japan, the Test Track (an oval track like Indy), the Seaside Speedway (with the Long Beach Pike in the background), and the Suzuka Speedway in Japan. The unique and picturesque scenery around each raceway adds exciting realism to each race!</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/arcade/poleps2a-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Atari</publisher>
-		<genre>Racing</genre>
-	</game>
-	<game>
 		<path>./1944.zip</path>
 		<name>1944: The Loop Master</name>
 		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
@@ -176,5 +165,18 @@ The Pooka and Fygar enemies return and the Fygars can still shoot fire out of th
 		<players>3</players>
 		<playcount>1</playcount>
 		<lastplayed>20181219T103228</lastplayed>
+	</game>
+	<game>
+		<path>./poleps2a.zip</path>
+		<name>Pole Position II</name>
+		<desc>Pole Position II is a 1-player game using a color raster-scan video display. Game action takes place at 4 different raceways - the Fuji Speedway in Japan, the Test Track (an oval track like Indy), the Seaside Speedway (with the Long Beach Pike in the background), and the Suzuka Speedway in Japan. The unique and picturesque scenery around each raceway adds exciting realism to each race!</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/arcade/poleps2a-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20190321T001134</lastplayed>
 	</game>
 </gameList>
