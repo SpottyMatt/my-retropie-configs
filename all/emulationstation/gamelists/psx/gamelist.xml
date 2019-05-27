@@ -1,18 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Crash Team Racing.cue</path>
-		<name>Crash Team Racing</name>
-		<desc>The main antagonist of the story, Nitros Oxide, is the self-proclaimed fastest racer in the galaxy who threatens to turn Earth into a concrete parking lot. Preceding Oxide are four boss characters: Ripper Roo, a deranged straitjacket-wearing kangaroo; Papu Papu, the morbidly obese leader of the island's native tribe; Komodo Joe, a Komodo dragon with a speech sound disorder; and Pinstripe Potoroo, a greedy pinstripe-clad potoroo. The four boss characters, along with an imperfect and morally ambiguous clone of Crash Bandicoot named Fake Crash, become accessible as playable characters if the Adventure Mode is fully completed.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/psx/Crash Team Racing-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19990930T000000</releasedate>
-		<developer>Naughty Dog</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<genre>Racing</genre>
-		<players>4+</players>
-	</game>
-	<game>
 		<path>./Final Fantasy Tactics (USA).cue</path>
 		<name>Final Fantasy Tactics</name>
 		<desc>Lead epic battles in a new Final Fantasy world.
@@ -68,18 +56,6 @@ Fight hundreds of battles across dangerous 3D terrain as an ancient blood feud a
 		<genre>Role-Playing</genre>
 	</game>
 	<game>
-		<path>./Gran Turismo 2.cue</path>
-		<name>Gran Turismo 2</name>
-		<desc>Gran Turismo 2 is fundamentally based on the racing game genre. The player must maneuver an automobile to compete against artificially intelligent drivers on various race tracks. The game uses two different modes: arcade and simulation. In the arcade mode, the player can freely choose the courses and vehicles they wish to use. However, the simulation mode requires the player to earn driver's licenses, pay for vehicles, and earn trophies in order to unlock new courses. Gran Turismo 2 features nearly 650 automobiles and 27 racing tracks.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/psx/Gran Turismo 2-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19991211T000000</releasedate>
-		<developer>Polyphony Digital</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./PaRappa the Rapper.cue</path>
 		<name>PaRappa the Rapper</name>
 		<desc>The original music video game.
@@ -103,7 +79,7 @@ Guaranteed you'll be singin' and dancin' along with Parappa and his pals to the 
 		<developer>Climax Co., Ltd. / Graphic Research</developer>
 		<publisher>Hot_B</publisher>
 		<genre>Racing</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Xenogears/Xenogears (Disc 1).cue</path>
@@ -138,5 +114,33 @@ A mysterious organization is turning the tides of a century-long war with ancien
 		<developer>Squaresoft</developer>
 		<publisher>Squaresoft</publisher>
 		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Crash Team Racing.cue</path>
+		<name>Crash Team Racing</name>
+		<desc>The main antagonist of the story, Nitros Oxide, is the self-proclaimed fastest racer in the galaxy who threatens to turn Earth into a concrete parking lot. Preceding Oxide are four boss characters: Ripper Roo, a deranged straitjacket-wearing kangaroo; Papu Papu, the morbidly obese leader of the island's native tribe; Komodo Joe, a Komodo dragon with a speech sound disorder; and Pinstripe Potoroo, a greedy pinstripe-clad potoroo. The four boss characters, along with an imperfect and morally ambiguous clone of Crash Bandicoot named Fake Crash, become accessible as playable characters if the Adventure Mode is fully completed.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/psx/Crash Team Racing-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Racing</genre>
+		<players>4+</players>
+		<playcount>1</playcount>
+		<lastplayed>20190526T195231</lastplayed>
+	</game>
+	<game>
+		<path>./Gran Turismo 2.cue</path>
+		<name>Gran Turismo 2</name>
+		<desc>Gran Turismo 2 is fundamentally based on the racing game genre. The player must maneuver an automobile to compete against artificially intelligent drivers on various race tracks. The game uses two different modes: arcade and simulation. In the arcade mode, the player can freely choose the courses and vehicles they wish to use. However, the simulation mode requires the player to earn driver's licenses, pay for vehicles, and earn trophies in order to unlock new courses. Gran Turismo 2 features nearly 650 automobiles and 27 racing tracks.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/psx/Gran Turismo 2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19991211T000000</releasedate>
+		<developer>Polyphony Digital</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20190526T195200</lastplayed>
 	</game>
 </gameList>
