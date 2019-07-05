@@ -12,32 +12,6 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Warlords (Kings in the Corner) (Paddle) (1981) (Atari, Carla Meninsky - Sears) (CX2610 - 49-75127) ~.zip</path>
-		<name>Warlords</name>
-		<desc>In Warlords, you need to defend yourself from three human and/or computer players. Each of the four players are in one of the corners of the screen guarded by a castle. You control a small shield which can be moved around the edge of the castle. To survive you need to use the shield to block a ball which bounces around the screen. If the ball hits your castle, it will take out some of the bricks. If a hole forms in the castle wall and the ball makes it though and hits your warlord, then you are out of the game. The last player left alive wins the battle, and the first player to win five battles wins the game! Several game options are included which allow you to either catch or ricochet the ball when the shield touches it, and control the speed of the game.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/atari2600/Warlords (Kings in the Corner) (Paddle) (1981) (Atari, Carla Meninsky - Sears) (CX2610 - 49-75127) ~-image.jpg</image>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Sears, Roebuck and Co</publisher>
-		<genre>Action</genre>
-		<players />
-	</game>
-	<game>
-		<path>./Custer's Revenge (1982) (Mystique - American Multiple Industries, Joel H. Martin) (1001) ~.zip</path>
-		<name>Custer's Revenge</name>
-		<desc>You are General Custer. Your dander's up, your pistol's wavin‘. You've set your sights on a ravishing maiden named Revenge: but she's not about to take it lying down, by George! Help is on the way. If you're to get to Revenge you'll have to rise to the challenge, dodge a tribe of flying arrows and protect your flanks against some downright mean and prickly cactus. But if you can stand pat and last post the stings and arrows - you can stand last.
-
-Remember! Revenge is sweet. Everytime ol' Custer scores he comes up smilin‘ and right back for more. The higher the score. the more challenging the game action gets.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/atari2600/Custer's Revenge (1982) (Mystique - American Multiple Industries, Joel H. Martin) (1001) ~-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19821018T000000</releasedate>
-		<developer>Mystique</developer>
-		<publisher>Mystique</publisher>
-		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20181219T114131</lastplayed>
-	</game>
-	<game>
 		<path>./Outlaw - Gunslinger (1978) (Atari, David Crane - Sears) (CX2605 - 6-99822, 49-75109) ~.zip</path>
 		<name>Outlaw (Gunslinger)</name>
 		<desc>You're a gunslinger in the old west! Outlaw features both one and two player games. In the one player version, your goal is to shoot a moving target as many times as possible in 99 seconds. In the two player version, each player tries to be the first to shoot his opponent ten times. Several game variations are included in both the one and two player versions. In the middle of the screen is one of several possible obstacles to make the game more difficult. A giant cactus, a stagecoach, a moving stagecoach, or a breakable wall all can block the target or provide some shelter for you to hide from your opponents shots. You also have the choice of unlimited fire, or only a six shooter. If you choose the six shooter, then each player must use up all six shots before either player can reload. And lastly, there is the "getaway" option. With getaway, a player may move immediately after firing; without getaway, a player must remain stationary for as long as his bullet is on the screen.</desc>
@@ -51,20 +25,6 @@ Remember! Revenge is sweet. Everytime ol' Custer scores he comes up smilin‘ an
 		<lastplayed>20181228T182751</lastplayed>
 	</game>
 	<game>
-		<path>./River Raid (1984) (Galaga Games).zip</path>
-		<name>River Raid</name>
-		<desc>Mission: Code Name River Raid. Jet down the river. Break the enemy blockade and blast the bridges to halt enemy troop advances. Terrain: Code Name River of No Return. An ever-changing, ever-challenging waterway. Expect huge islands, narrow channels and treacherous bays crawling with enemy choppers, tankers and jets. Weaponry: Code Name StratoStrafer. Your B1 StratoWing Assault Jet has been retrofitted with sophisticated, rapid-fire guided missiles. Your craft is super-sensitive to the stick. Accelerate, slow or bank radically with only a touch. Tactics: Jet low to the river to avoid radar. Stop periodically at depots to refuel. A warning claxxon will alert you. Top speed! Best of luck!</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/atari2600/River Raid (1984) (Galaga Games)-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20181228T182901</lastplayed>
-	</game>
-	<game>
 		<path>./Atlantis (1983) (CCE) (C-832).zip</path>
 		<name>Atlantis</name>
 		<desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
@@ -74,7 +34,7 @@ Remember! Revenge is sweet. Everytime ol' Custer scores he comes up smilin‘ an
 		<developer>Imagic</developer>
 		<publisher>Imagic</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
 		<playcount>1</playcount>
 		<lastplayed>20190320T234316</lastplayed>
 	</game>
@@ -90,5 +50,47 @@ Remember! Revenge is sweet. Everytime ol' Custer scores he comes up smilin‘ an
 		<genre>Action</genre>
 		<playcount>1</playcount>
 		<lastplayed>20190320T234556</lastplayed>
+	</game>
+	<game>
+		<path>./Custer's Revenge (1982) (Mystique - American Multiple Industries, Joel H. Martin) (1001) ~.zip</path>
+		<name>Custer's Revenge</name>
+		<desc>You are General Custer. Your dander's up, your pistol's wavin‘. You've set your sights on a ravishing maiden named Revenge: but she's not about to take it lying down, by George! Help is on the way. If you're to get to Revenge you'll have to rise to the challenge, dodge a tribe of flying arrows and protect your flanks against some downright mean and prickly cactus. But if you can stand pat and last post the stings and arrows - you can stand last.
+
+Remember! Revenge is sweet. Everytime ol' Custer scores he comes up smilin‘ and right back for more. The higher the score. the more challenging the game action gets.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600/Custer's Revenge (1982) (Mystique - American Multiple Industries, Joel H. Martin) (1001) ~-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19821018T000000</releasedate>
+		<developer>Mystique</developer>
+		<publisher>Mystique</publisher>
+		<genre>Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20190705T050553</lastplayed>
+	</game>
+	<game>
+		<path>./River Raid (1984) (Galaga Games).zip</path>
+		<name>River Raid</name>
+		<desc>Mission: Code Name River Raid. Jet down the river. Break the enemy blockade and blast the bridges to halt enemy troop advances. Terrain: Code Name River of No Return. An ever-changing, ever-challenging waterway. Expect huge islands, narrow channels and treacherous bays crawling with enemy choppers, tankers and jets. Weaponry: Code Name StratoStrafer. Your B1 StratoWing Assault Jet has been retrofitted with sophisticated, rapid-fire guided missiles. Your craft is super-sensitive to the stick. Accelerate, slow or bank radically with only a touch. Tactics: Jet low to the river to avoid radar. Stop periodically at depots to refuel. A warning claxxon will alert you. Top speed! Best of luck!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600/River Raid (1984) (Galaga Games)-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20190705T050851</lastplayed>
+	</game>
+	<game>
+		<path>./Warlords (Kings in the Corner) (Paddle) (1981) (Atari, Carla Meninsky - Sears) (CX2610 - 49-75127) ~.zip</path>
+		<name>Warlords</name>
+		<desc>In Warlords, you need to defend yourself from three human and/or computer players. Each of the four players are in one of the corners of the screen guarded by a castle. You control a small shield which can be moved around the edge of the castle. To survive you need to use the shield to block a ball which bounces around the screen. If the ball hits your castle, it will take out some of the bricks. If a hole forms in the castle wall and the ball makes it though and hits your warlord, then you are out of the game. The last player left alive wins the battle, and the first player to win five battles wins the game! Several game options are included which allow you to either catch or ricochet the ball when the shield touches it, and control the speed of the game.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600/Warlords (Kings in the Corner) (Paddle) (1981) (Atari, Carla Meninsky - Sears) (CX2610 - 49-75127) ~-image.jpg</image>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Sears, Roebuck and Co</publisher>
+		<genre>Action</genre>
+		<players></players>
+		<playcount>2</playcount>
+		<lastplayed>20190705T051000</lastplayed>
 	</game>
 </gameList>

@@ -1,20 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./garou.zip</path>
-		<name>Garou: Mark of the Wolves</name>
-		<desc>It's been several years since Geese Howard was defeated in a battle with Terry Bogard, a young man looking to avenge his father. Rather than looking to be saved from death after falling off his office balcony, Geese instead decided to die, and left behind his young son, Rock. Terry took Rock in and became like a big brother to him, raising the boy throughout his life.
-
-Now Rock is a teenager, and Terry is a man in his 30s, and both are about to come together in a new clash...new faces and old come together for the greatest battle yet!</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/neogeo/garou-image.jpg</image>
-		<rating>0.5</rating>
-		<releasedate>20000225T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./magdrop3.zip</path>
 		<name>Magical Drop III</name>
 		<desc>Magical Drop is played in a style and gameplay similar to Compile's (now Sega's) Puyo Puyo and Taito's Puzzle Bobble franchises; a "stack" of random colored bubbles descend from the top, and a player is defeated when a bubble hits the bottom. Bubbles can be picked up and dropped by the player's "clown" at the bottom, and are destroyed when three or more of the same color are put together on a single column. "Chains" are formed either when a single drop caused a chain reaction, or when more than one group of bubbles is destroyed in quick succession. The game is normally played with two players (one may be a computer opponent), and chains cause the opponent's stack to descend faster.</desc>
@@ -38,18 +24,6 @@ Now Rock is a teenager, and Terry is a man in his 30s, and both are about to com
 		<players>2</players>
 	</game>
 	<game>
-		<path>./samsho2.zip</path>
-		<name>Samurai Shodown II</name>
-		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/neogeo/samsho2-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19941028T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./spinmast.zip</path>
 		<name>Spin Master</name>
 		<desc>Many years ago, a large treasure was hidden by a mysterious guy on an uncharted island. The guy of mystery drew the location of the treasure on a map and hid it deep in the forest of the island. Days turned to weeks, weeks turned to years, and years turned to decades. The guy who hid the map disappeared, never to be seen again. During this time, the map became dirty and weathered, eventually tearing into five pieces which were scattered about the corners of the world. One of these pieces wafted its way into the possession of the young treasure seeker name Johnny. Living with his girlfriend Mary and his rugged sidekick name Tom, Johnny dreamed of the day when he would some day find the ancient treasure on the hidden island of the mysterious guy.
@@ -60,26 +34,6 @@ Then one day, the greedy, treasure-seeking mad scientist, Dr. De Playne appeared
 		<developer>Data East</developer>
 		<publisher>SNK</publisher>
 		<genre>Platform</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./wjammers.zip</path>
-		<name>WindJammers</name>
-		<desc>Windjammers (known in Japan as Flying Power Disc) is an action sports game developed and released by Data East for arcades (running Neo Geo MVS hardware) on February 17, 1994.
-
-A unique sport based on a combination of air hockey and tennis, Windjammers has two players facing off on a court (with a low net in the middle), attempting to throw a singular throwing disc past each other into a designated goal zone while preventing the other player from doing the same. Players pick characters from different nationalities, each with unique stats and special abilities.
-
-There are two basic moves: a regular throw and a lob. By using quarter-circle and half-circle movements, you can also add effect to the throw such as curves and banks. To catch difficult discs, you can slide to move more quickly. Slides have a recovery time to them, so sliding the wrong way is very risky.
-
-Each player has a powerful signature throw. To execute these special moves you must stand where a lobbed or popped-up disc is going to land and power up your throw by mashing or holding the throw button. A player can pop-up a disc by hitting the catch button at the correct time. These moves can be countered but if received too far back they will knock an opponent into the goal. Slower characters are less prone to being knocked back.
-
-There are six characters to choose from, with specific abilities and their own court fit for their skills. A single game consists of short sets of thirty seconds or the first person to score 15 or more points. The games are finished by the first person to get to two wins. If there is a tie at 2-2 via tied set then a sudden death round will be played to find the winner.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/neogeo/wjammers-image.jpg</image>
-		<rating>0.9</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
 		<players>2</players>
 	</game>
 	<game>
@@ -127,20 +81,6 @@ This game also marked the debut of Jack and Ryofu, which many players considered
 		<lastplayed>20190320T235846</lastplayed>
 	</game>
 	<game>
-		<path>./mslug5.zip</path>
-		<name>Metal Slug 5</name>
-		<desc>A special disc that contains deep and intricate secrets about the Metal Slug project is stolen by a mysterious group called the Ptolemaic Army, whose specialty lies from within archaeological excavation and espionage. Marco and Tarma of the Peregrine Falcon Strike Force follow in hot pursuit against the group and in the process are joined by Eri and Fio of SPARROWS. Together once more, the quartet investigate the shrouded objective of the Ptolemaic Army.</desc>
-		<image>~/.emulationstation/downloaded_images/neogeo/mslug5-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>20031101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<playcount>3</playcount>
-		<lastplayed>20190704T232309</lastplayed>
-	</game>
-	<game>
 		<path>./kof98.zip</path>
 		<name>The King of Fighters '98</name>
 		<desc>The All-Star dream battle is here at last: It's King of Fighters '98! Here come 38 of your favorite characters from the King of Fighters series. Your favorite characters and teams are back! Filled with new surprises like the Roulette Team Edit and Advantage System, King '98 will pop your cork with unrelenting excitement!</desc>
@@ -153,5 +93,71 @@ This game also marked the debut of Jack and Ryofu, which many players considered
 		<players>2</players>
 		<playcount>1</playcount>
 		<lastplayed>20190704T233014</lastplayed>
+	</game>
+	<game>
+		<path>./garou.zip</path>
+		<name>Garou: Mark of the Wolves</name>
+		<desc>It's been several years since Geese Howard was defeated in a battle with Terry Bogard, a young man looking to avenge his father. Rather than looking to be saved from death after falling off his office balcony, Geese instead decided to die, and left behind his young son, Rock. Terry took Rock in and became like a big brother to him, raising the boy throughout his life.
+
+Now Rock is a teenager, and Terry is a man in his 30s, and both are about to come together in a new clash...new faces and old come together for the greatest battle yet!</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/garou-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>20000225T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20190705T054816</lastplayed>
+	</game>
+	<game>
+		<path>./mslug5.zip</path>
+		<name>Metal Slug 5</name>
+		<desc>A special disc that contains deep and intricate secrets about the Metal Slug project is stolen by a mysterious group called the Ptolemaic Army, whose specialty lies from within archaeological excavation and espionage. Marco and Tarma of the Peregrine Falcon Strike Force follow in hot pursuit against the group and in the process are joined by Eri and Fio of SPARROWS. Together once more, the quartet investigate the shrouded objective of the Ptolemaic Army.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/mslug5-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>20031101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>4</playcount>
+		<lastplayed>20190705T045107</lastplayed>
+	</game>
+	<game>
+		<path>./samsho2.zip</path>
+		<name>Samurai Shodown II</name>
+		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/samsho2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19941028T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20190705T053037</lastplayed>
+	</game>
+	<game>
+		<path>./wjammers.zip</path>
+		<name>WindJammers</name>
+		<desc>Windjammers (known in Japan as Flying Power Disc) is an action sports game developed and released by Data East for arcades (running Neo Geo MVS hardware) on February 17, 1994.
+
+A unique sport based on a combination of air hockey and tennis, Windjammers has two players facing off on a court (with a low net in the middle), attempting to throw a singular throwing disc past each other into a designated goal zone while preventing the other player from doing the same. Players pick characters from different nationalities, each with unique stats and special abilities.
+
+There are two basic moves: a regular throw and a lob. By using quarter-circle and half-circle movements, you can also add effect to the throw such as curves and banks. To catch difficult discs, you can slide to move more quickly. Slides have a recovery time to them, so sliding the wrong way is very risky.
+
+Each player has a powerful signature throw. To execute these special moves you must stand where a lobbed or popped-up disc is going to land and power up your throw by mashing or holding the throw button. A player can pop-up a disc by hitting the catch button at the correct time. These moves can be countered but if received too far back they will knock an opponent into the goal. Slower characters are less prone to being knocked back.
+
+There are six characters to choose from, with specific abilities and their own court fit for their skills. A single game consists of short sets of thirty seconds or the first person to score 15 or more points. The games are finished by the first person to get to two wins. If there is a tie at 2-2 via tied set then a sudden death round will be played to find the winner.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/wjammers-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20190705T055206</lastplayed>
 	</game>
 </gameList>
