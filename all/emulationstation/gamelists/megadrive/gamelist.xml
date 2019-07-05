@@ -1,22 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Gunstar Heroes.smd</path>
-		<name>Gunstar Heroes</name>
-		<desc>Gunstar Heroes is a side scrolling shooter. The player has four weapons to choose from, and they can be combined in various pairs to create a total of 14 unique weapons. In addition to the weapons, the player can engage enemies in close quarters combat. It is possible to grab and toss enemies, perform sliding and jumping attacks and a long-range skid.
-
-Unlike most games in the genre, the player has a life total calculated in numbers. Death to a player requires multiple hits but just one death will issue the option to continue from the start of the level or to end the game. Players have unlimited continues.
-
-The main highlight of the game are its boss encounters, which often feature large enemies made up of multiple sprites allowing for fluid movement.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/megadrive/Gunstar Heroes-image.jpg</image>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Tresure</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./M.U.S.H.A..smd</path>
 		<name>Musha</name>
 		<desc>A spin-off from the Aleste series by Compile, Musha Aleste takes the same top-down shooter mechanics of its predecessors but stages the action in a bizarre universe that merges traditional Japanese lore with sci-fi mecha action.
@@ -60,22 +44,6 @@ Unfortunately, living in the computer world for so long twisted Doc Yoshiyama's 
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Sonic and Knuckles.gen</path>
-		<name>Sonic &amp; Knuckles</name>
-		<desc>The story picks up from the ending of Sonic 3 - Dr. Robotnik's orbital weapon, the Death Egg, has been badly damaged in the climactic battle between himself and Sonic The Hedgehog. As the satellite falls back to the Floating Island, landing in a volcanic crater, Sonic jumps off, landing in a mushroom filled woodland.
-Sonic knows there are many Chaos Emeralds hidden on the island, including the powerful Super Emeralds and the Master Emerald, the secret to the island's levitation powers. Worried that Robotnik may try to harness this power to fuel a repaired Death Egg, he sets off to try and destroy the Death Egg once and for all, keeping an eye out for Knuckles the Echidna, still smarting from his Launch Base defeat.
-At Hidden Palace, Sonic finds Knuckles there waiting for him. They fight and Sonic seems to emerge victorious when Knuckles flees from the duel after sensing someone is trying to steal the Master Emerald. Knuckles races ahead closely followed by Sonic to find Robotnik trying to steal the Master Emerald: It had been his plan all along to snatch it while Sonic and Knuckles were too busy dealing with each other. Realizing he had been tricked, Knuckles reacts by attacking Robotnik, which fails when Robotnik electrocutes Knuckles. Sonic tries to intervene but Robotnik stills manages to escape. Knuckles now realizes his mistake and that Sonic is in fact on his side. They join forces and teleport to Sky Sanctuary.
-At Sky Sanctuary, Knuckles and Sonic watch the Death Egg launching in the background. Knuckles activates a bridge so Sonic can cross over. Sonic defeats a rebuilt Metal Sonic on the way to the Death Egg, and manages to board it before it leaves the atmosphere. Onboard the Death Egg, Sonic defeats Robotnik and destroys the ship once and for all, only for Robotnik to get away with the Master Emerald in one of his giant robots. If Sonic hasn't collected all seven Chaos Emeralds and/or Super Emeralds, the game ends here, and the ending in which the Master Emerald does not return to Angel Island occurs. After the credits, the player sees a scene with Robotnik still in possession of the Master Emerald.
-If all the seven Chaos Emeralds and/or Super Emeralds are collected, Sonic transforms into Super Sonic or Hyper Sonic and chases Robotnik into the Doomsday Zone. After failing to lose him in an asteroid belt, Robotnik's machine is destroyed, Sonic and Tails return the Master Emerald, and the Floating Island becomes airborne once again. If the player didn't collect all the Super Emeralds, a scene occurs which shows an Egg Robo emerging from a pile of metal. If all Emeralds are collected, the player sees the Sonic 3 and Knuckles logo featuring Sonic, Tails, and Knuckles.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/megadrive/Sonic and Knuckles-image.jpg</image>
-		<rating>0.9</rating>
-		<releasedate>19941018T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Sonic The Hedgehog 2.gen</path>
 		<name>Sonic the Hedgehog 2</name>
 		<desc>The gameplay of Sonic the Hedgehog 2 builds upon the basic set-up of the original Sonic the Hedgehog game. The player finishes each level, generally moving from left to right, within a time limit of 10 minutes.  Along the way, rings are collected and Badniks are defeated. Star posts serve as checkpoints, where if the player was to lose a life then he or she would return to one.  When the player has collected at least 50 rings, star posts can be run past for an optional Special Stage.  At the end of the last act of each zone (with the exception of Sky Chase Zone which does not have a boss), Sonic confronts Dr. Robotnik.</desc>
@@ -85,18 +53,6 @@ If all the seven Chaos Emeralds and/or Super Emeralds are collected, Sonic trans
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Sonic The Hedgehog 3.md</path>
-		<name>Sonic the Hedgehog 3</name>
-		<desc>In single player mode, the player can choose to play solo, as either Sonic or Tails, or as a team, controlling Sonic, with the AI controlling Tails, which is the default configuration. Another player may take control of Tails at any time by using a controller plugged into port 2. The object of the game is to progress through the levels. In order to completely finish the game, seven Chaos Emeralds must also be collected from the special stages.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/megadrive/Sonic The Hedgehog 3-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19940202T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
 		<players>2</players>
 	</game>
 	<game>
@@ -122,5 +78,55 @@ Realizing that "Mr. X" and his syndicate has returned for revenge against him, B
 		<developer>Blue Sky Software</developer>
 		<publisher>Sega</publisher>
 		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Gunstar Heroes.smd</path>
+		<name>Gunstar Heroes</name>
+		<desc>Gunstar Heroes is a side scrolling shooter. The player has four weapons to choose from, and they can be combined in various pairs to create a total of 14 unique weapons. In addition to the weapons, the player can engage enemies in close quarters combat. It is possible to grab and toss enemies, perform sliding and jumping attacks and a long-range skid.
+
+Unlike most games in the genre, the player has a life total calculated in numbers. Death to a player requires multiple hits but just one death will issue the option to continue from the start of the level or to end the game. Players have unlimited continues.
+
+The main highlight of the game are its boss encounters, which often feature large enemies made up of multiple sprites allowing for fluid movement.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Gunstar Heroes-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Tresure</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20190704T233844</lastplayed>
+	</game>
+	<game>
+		<path>./Sonic and Knuckles.gen</path>
+		<name>Sonic &amp; Knuckles</name>
+		<desc>The story picks up from the ending of Sonic 3 - Dr. Robotnik's orbital weapon, the Death Egg, has been badly damaged in the climactic battle between himself and Sonic The Hedgehog. As the satellite falls back to the Floating Island, landing in a volcanic crater, Sonic jumps off, landing in a mushroom filled woodland.
+Sonic knows there are many Chaos Emeralds hidden on the island, including the powerful Super Emeralds and the Master Emerald, the secret to the island's levitation powers. Worried that Robotnik may try to harness this power to fuel a repaired Death Egg, he sets off to try and destroy the Death Egg once and for all, keeping an eye out for Knuckles the Echidna, still smarting from his Launch Base defeat.
+At Hidden Palace, Sonic finds Knuckles there waiting for him. They fight and Sonic seems to emerge victorious when Knuckles flees from the duel after sensing someone is trying to steal the Master Emerald. Knuckles races ahead closely followed by Sonic to find Robotnik trying to steal the Master Emerald: It had been his plan all along to snatch it while Sonic and Knuckles were too busy dealing with each other. Realizing he had been tricked, Knuckles reacts by attacking Robotnik, which fails when Robotnik electrocutes Knuckles. Sonic tries to intervene but Robotnik stills manages to escape. Knuckles now realizes his mistake and that Sonic is in fact on his side. They join forces and teleport to Sky Sanctuary.
+At Sky Sanctuary, Knuckles and Sonic watch the Death Egg launching in the background. Knuckles activates a bridge so Sonic can cross over. Sonic defeats a rebuilt Metal Sonic on the way to the Death Egg, and manages to board it before it leaves the atmosphere. Onboard the Death Egg, Sonic defeats Robotnik and destroys the ship once and for all, only for Robotnik to get away with the Master Emerald in one of his giant robots. If Sonic hasn't collected all seven Chaos Emeralds and/or Super Emeralds, the game ends here, and the ending in which the Master Emerald does not return to Angel Island occurs. After the credits, the player sees a scene with Robotnik still in possession of the Master Emerald.
+If all the seven Chaos Emeralds and/or Super Emeralds are collected, Sonic transforms into Super Sonic or Hyper Sonic and chases Robotnik into the Doomsday Zone. After failing to lose him in an asteroid belt, Robotnik's machine is destroyed, Sonic and Tails return the Master Emerald, and the Floating Island becomes airborne once again. If the player didn't collect all the Super Emeralds, a scene occurs which shows an Egg Robo emerging from a pile of metal. If all Emeralds are collected, the player sees the Sonic 3 and Knuckles logo featuring Sonic, Tails, and Knuckles.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Sonic and Knuckles-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19941018T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20190705T023903</lastplayed>
+	</game>
+	<game>
+		<path>./Sonic The Hedgehog 3.md</path>
+		<name>Sonic the Hedgehog 3</name>
+		<desc>In single player mode, the player can choose to play solo, as either Sonic or Tails, or as a team, controlling Sonic, with the AI controlling Tails, which is the default configuration. Another player may take control of Tails at any time by using a controller plugged into port 2. The object of the game is to progress through the levels. In order to completely finish the game, seven Chaos Emeralds must also be collected from the special stages.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Sonic The Hedgehog 3-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19940202T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20190705T025336</lastplayed>
 	</game>
 </gameList>

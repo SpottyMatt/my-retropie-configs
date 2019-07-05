@@ -1,20 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Aero Fighters (USA).sfc</path>
-		<name>Aero Fighters</name>
-		<desc>Aero Fighters (known as Sonic Wings in Japan) is a vertical-scrolling shoot 'em up ("shmup") arcade game released in 1992 by Video System, ported to the Super Famicom in 1993 and the Super Nintendo in 1994.
-
-There are 8 stages in this game. The beginning stages consists of randomly chosen areas from nations of unselected fighters (assuming those fighters have nations). If Rabio or Lepus is chosen, all 4 rival nation stages become playable. After completing all rival nation stages, there are 4 more stages.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/snes/Aero Fighters (USA)-image.jpg</image>
-		<rating>0.4</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Video System</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./EarthBound (USA).sfc</path>
 		<name>EarthBound</name>
 		<desc>Intergalactic terror stikes the small town of Onett as a blazing extraterrestrial object crashes in the night! The earth now faces imminent destruction by the universal evil threat known as Giygas! Armed with a cracked baseball bat, a cookie and an ATM card, a courageous boy named Ness vows to save the planet from hideous destruction. He must first find his heroic companions, Paula, Jeff and Poo. Will Ness succeed in his attempts to ambush countless frightening monsters as he travels? The ultimate test lies in the impending encounter with the all powerful Giygas!</desc>
@@ -191,5 +177,21 @@ The millennium. A portal is opened. The chain of time is broken. A young man is 
 		<genre>Role-Playing</genre>
 		<playcount>1</playcount>
 		<lastplayed>20190508T011700</lastplayed>
+	</game>
+	<game>
+		<path>./Aero Fighters (USA).sfc</path>
+		<name>Aero Fighters</name>
+		<desc>Aero Fighters (known as Sonic Wings in Japan) is a vertical-scrolling shoot 'em up ("shmup") arcade game released in 1992 by Video System, ported to the Super Famicom in 1993 and the Super Nintendo in 1994.
+
+There are 8 stages in this game. The beginning stages consists of randomly chosen areas from nations of unselected fighters (assuming those fighters have nations). If Rabio or Lepus is chosen, all 4 rival nation stages become playable. After completing all rival nation stages, there are 4 more stages.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Aero Fighters (USA)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20190705T024500</lastplayed>
 	</game>
 </gameList>

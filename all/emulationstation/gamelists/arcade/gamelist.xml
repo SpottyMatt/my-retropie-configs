@@ -141,18 +141,6 @@ The Pooka and Fygar enemies return and the Fygars can still shoot fire out of th
 		<players>2</players>
 	</game>
 	<game>
-		<path>./1944.zip</path>
-		<name>1944: The Loop Master</name>
-		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/arcade/1944-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>20000620T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>8ing/Raizing</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./dino.zip</path>
 		<name>Cadillacs and Dinosaurs</name>
 		<desc>Cadillacs and Dinosaurs: The Arcade Game is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
@@ -178,5 +166,25 @@ The Pooka and Fygar enemies return and the Fygars can still shoot fire out of th
 		<genre>Racing</genre>
 		<playcount>1</playcount>
 		<lastplayed>20190321T001134</lastplayed>
+	</game>
+	<game>
+		<path>./1944.zip</path>
+		<name>1944: The Loop Master</name>
+		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1944-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20000620T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>8ing/Raizing</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20190705T022449</lastplayed>
+	</game>
+	<game>
+		<path>./galaga3.zip</path>
+		<name>Galaga 3 (GP3 rev. D)</name>
+		<playcount>1</playcount>
+		<lastplayed>20190705T022842</lastplayed>
 	</game>
 </gameList>
