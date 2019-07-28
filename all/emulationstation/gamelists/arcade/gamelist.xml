@@ -155,19 +155,6 @@ The Pooka and Fygar enemies return and the Fygars can still shoot fire out of th
 		<lastplayed>20181219T103228</lastplayed>
 	</game>
 	<game>
-		<path>./poleps2a.zip</path>
-		<name>Pole Position II</name>
-		<desc>Pole Position II is a 1-player game using a color raster-scan video display. Game action takes place at 4 different raceways - the Fuji Speedway in Japan, the Test Track (an oval track like Indy), the Seaside Speedway (with the Long Beach Pike in the background), and the Suzuka Speedway in Japan. The unique and picturesque scenery around each raceway adds exciting realism to each race!</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/arcade/poleps2a-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Atari</publisher>
-		<genre>Racing</genre>
-		<playcount>1</playcount>
-		<lastplayed>20190321T001134</lastplayed>
-	</game>
-	<game>
 		<path>./1944.zip</path>
 		<name>1944: The Loop Master</name>
 		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
@@ -200,21 +187,6 @@ The Pooka and Fygar enemies return and the Fygars can still shoot fire out of th
 		<lastplayed>20190728T211420</lastplayed>
 	</game>
 	<game>
-		<path>./ddsomur1.zip</path>
-		<name>Dungeons &amp; Dragons: Shadow Over Mystara</name>
-		<desc>In addition to the original four heroes found in its predecessor, Dungeons &amp; Dragons: Tower of Doom (Cleric, Dwarf, Elf and Fighter), Shadow of Mystara adds a Thief and a Magic-User to the selection. Furthermore, with the inclusion of two separate versions of each character's sprite set, the game allows up to two players to select the same character (in Tower of Doom each of the characters could only be selected once), effectively giving the game 12 "different" characters to choose from. The two Clerics and two Magic Users also have subtle differences within their spell books.
-
-The controls are using four buttons: Attack, Jump, Select (brings up a small inventory ring around the character allowing the player to choose what item is set in the Use slot) and Use. The Cleric, Elf and Magic-User also have two extra rings for their spells, with the Jump button used to switch from ring to ring. While the game uses the same kick harness as the previous game, the Select and Use buttons are reversed.
-
-Shadow over Mystara also introduced a selection of special moves which are executed by moving the joystick and tapping the buttons in certain combinations, in a way similar to the Street Fighter series. The characters (except for the Magic-User) have a Dashing Attack as well as a Rising Attack which can be used to combo monsters or even juggle them in the air. Most characters (again, with the exception of the Magic-User and also Cleric) also have a Megacrush, a move common to nearly all of Capcom side-scrollers, which damages all enemies standing close enough to the character but in turn also damaging the player themselves.</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/ddsomur1-image.jpg</image>
-		<releasedate>19961101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Role-Playing, Fighting</genre>
-		<players>4</players>
-	</game>
-	<game>
 		<path>./gaunt2.zip</path>
 		<name>Gauntlet II</name>
 		<desc>The gameplay is very similar to the original Gauntlet, a topdown dungeon crawl supporting up to four players. The biggest difference from the original game is that players can choose identical classes, instead of being limited to a particular one for each joystick; the players being differentiated by colors. Thus, instead of having a "warrior", "wizard", and "valkyrie" (for instance), in Gauntlet II there could be a "red wizard", a "blue elf" and a "green warrior".
@@ -245,23 +217,6 @@ In addition to the new "class" system, new level designs were added, including t
 		<players>2</players>
 	</game>
 	<game>
-		<path>./ssriders.zip</path>
-		<name>Sunset Riders</name>
-		<desc>Sunset Riders is a side-scrolling run and gun video game developed and released by Konami as a coin-operated video game on the JAMMA arcade platform in 1991.
-
-The game, which is set in a fanciful version of the American Old West, revolves around four bounty hunters named Steve, Billy, Bob, and Cormano who are out to claim rewards given for eliminating the most wanted outlaws in the West.
-
-Sunset Riders can be played by up to two or four players, depending on the version of the game. In the two-player version each player can choose which of the four bounty hunters to play as at the start of the game, while in the four-player version each character is assigned to a different control panel. Steve and Billy wield revolvers, while Bob uses a rifle and Cormano uses a shotgun.
-
-The objective of the game is to reach the end of each stage and defeat the outlaw awaiting at the end. While most of the game has the player moving on foot, Stages 2 and 7 both begin with a segment where the player fights against bandits on a horseback. In addition, there's a bonus minigame at the end of Stages 2 and 5 where the player must shoot at enemies from a first-person perspective coming from eight different positions before time runs out. There are a total of eight stages in the game.</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/ssriders-image.jpg</image>
-		<releasedate>19910920T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action, Shooter</genre>
-		<players>4</players>
-	</game>
-	<game>
 		<path>./warlords.zip</path>
 		<name>Warlords</name>
 		<desc>Warlords is an arcade game released by Atari in 1980. The game resembles a combination of Breakout and Quadrapong (an early Atari arcade game) in the sense that not only could up to 4 players play the game at the same time, but also the "forts" in the four corners of the screen were brick walls that could be broken with a flaming ball.</desc>
@@ -282,5 +237,99 @@ The objective of the game is to reach the end of each stage and defeat the outla
 		<publisher>Konami</publisher>
 		<genre>Action, Fighting</genre>
 		<players>4</players>
+	</game>
+	<game>
+		<path>./ddsomur1.zip</path>
+		<name>Dungeons &amp; Dragons: Shadow Over Mystara</name>
+		<desc>In addition to the original four heroes found in its predecessor, Dungeons &amp; Dragons: Tower of Doom (Cleric, Dwarf, Elf and Fighter), Shadow of Mystara adds a Thief and a Magic-User to the selection. Furthermore, with the inclusion of two separate versions of each character's sprite set, the game allows up to two players to select the same character (in Tower of Doom each of the characters could only be selected once), effectively giving the game 12 "different" characters to choose from. The two Clerics and two Magic Users also have subtle differences within their spell books.
+
+The controls are using four buttons: Attack, Jump, Select (brings up a small inventory ring around the character allowing the player to choose what item is set in the Use slot) and Use. The Cleric, Elf and Magic-User also have two extra rings for their spells, with the Jump button used to switch from ring to ring. While the game uses the same kick harness as the previous game, the Select and Use buttons are reversed.
+
+Shadow over Mystara also introduced a selection of special moves which are executed by moving the joystick and tapping the buttons in certain combinations, in a way similar to the Street Fighter series. The characters (except for the Magic-User) have a Dashing Attack as well as a Rising Attack which can be used to combo monsters or even juggle them in the air. Most characters (again, with the exception of the Magic-User and also Cleric) also have a Megacrush, a move common to nearly all of Capcom side-scrollers, which damages all enemies standing close enough to the character but in turn also damaging the player themselves.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/ddsomur1-image.jpg</image>
+		<releasedate>19961101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role-Playing, Fighting</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20190728T222202</lastplayed>
+	</game>
+	<game>
+		<path>./gauntlet.zip</path>
+		<name>Gauntlet</name>
+		<desc>Gauntlet is a fantasy-themed hack and slash 1985 arcade game by Atari Games. It is noted as the first class-based multiplayer game. Released during the emergence of popularity of other role-playing games like Dungeons &amp; Dragons, the game was a sensation, being one of the first true dungeon crawl arcade games.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/gauntlet-image.jpg</image>
+		<releasedate>19851001T000000</releasedate>
+		<developer>Atari Games</developer>
+		<publisher>Atari Games</publisher>
+		<genre>Adventure</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./ssrdruac.zip</path>
+		<name>ssrdruac</name>
+		<playcount>1</playcount>
+		<lastplayed>20190728T220350</lastplayed>
+	</game>
+	<game>
+		<path>./ssrdruda.zip</path>
+		<name>ssrdruda</name>
+		<playcount>2</playcount>
+		<lastplayed>20190728T220725</lastplayed>
+	</game>
+	<game>
+		<path>./ssrdrubc.zip</path>
+		<name>Sunset Riders - 2-Player</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<playcount>2</playcount>
+		<lastplayed>20190728T221046</lastplayed>
+	</game>
+	<game>
+		<path>./ssriders.zip</path>
+		<name>Sunset Riders - 4-Player</name>
+		<desc>Sunset Riders is a side-scrolling run and gun video game developed and released by Konami as a coin-operated video game on the JAMMA arcade platform in 1991.
+
+The game, which is set in a fanciful version of the American Old West, revolves around four bounty hunters named Steve, Billy, Bob, and Cormano who are out to claim rewards given for eliminating the most wanted outlaws in the West.
+
+Sunset Riders can be played by up to two or four players, depending on the version of the game. In the two-player version each player can choose which of the four bounty hunters to play as at the start of the game, while in the four-player version each character is assigned to a different control panel. Steve and Billy wield revolvers, while Bob uses a rifle and Cormano uses a shotgun.
+
+The objective of the game is to reach the end of each stage and defeat the outlaw awaiting at the end. While most of the game has the player moving on foot, Stages 2 and 7 both begin with a segment where the player fights against bandits on a horseback. In addition, there's a bonus minigame at the end of Stages 2 and 5 where the player must shoot at enemies from a first-person perspective coming from eight different positions before time runs out. There are a total of eight stages in the game.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/ssriders-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19910920T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Shooter</genre>
+		<players>4</players>
+		<playcount>2</playcount>
+		<lastplayed>20190728T222741</lastplayed>
+	</game>
+	<game>
+		<path>./poleps2a.zip</path>
+		<name>Pole Position II</name>
+		<desc>Pole Position II is a 1-player game using a color raster-scan video display. Game action takes place at 4 different raceways - the Fuji Speedway in Japan, the Test Track (an oval track like Indy), the Seaside Speedway (with the Long Beach Pike in the background), and the Suzuka Speedway in Japan. The unique and picturesque scenery around each raceway adds exciting realism to each race!</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/poleps2a-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Racing</genre>
+		<playcount>2</playcount>
+		<lastplayed>20190728T224119</lastplayed>
+	</game>
+	<game>
+		<path>./xmultipl.zip</path>
+		<name>X Multiply</name>
+		<desc>X Multiply is a side-scrolling shoot 'em up published by Irem, and similar in style to their earlier R-Type. Instead of the Force pod, however, the main power-up apparatus takes the form of two flexible tentacles. The tentacles are invulnerable to all enemy attacks, and can be positioned with careful maneuvering of the player's spaceship. Konami's Xexex is based on a fusion of this weaponry with the Force system of R-Type.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/xmultipl-image.jpg</image>
+		<releasedate>19890901T000000</releasedate>
+		<developer>Irem Corp.</developer>
+		<publisher>Irem Corp.</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20190728T224518</lastplayed>
 	</game>
 </gameList>
