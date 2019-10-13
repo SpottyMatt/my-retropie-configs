@@ -111,20 +111,6 @@ Now Rock is a teenager, and Terry is a man in his 30s, and both are about to com
 		<lastplayed>20190705T054816</lastplayed>
 	</game>
 	<game>
-		<path>./mslug5.zip</path>
-		<name>Metal Slug 5</name>
-		<desc>A special disc that contains deep and intricate secrets about the Metal Slug project is stolen by a mysterious group called the Ptolemaic Army, whose specialty lies from within archaeological excavation and espionage. Marco and Tarma of the Peregrine Falcon Strike Force follow in hot pursuit against the group and in the process are joined by Eri and Fio of SPARROWS. Together once more, the quartet investigate the shrouded objective of the Ptolemaic Army.</desc>
-		<image>~/.emulationstation/downloaded_images/neogeo/mslug5-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>20031101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<playcount>4</playcount>
-		<lastplayed>20190705T045107</lastplayed>
-	</game>
-	<game>
 		<path>./samsho2.zip</path>
 		<name>Samurai Shodown II</name>
 		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</desc>
@@ -159,5 +145,19 @@ There are six characters to choose from, with specific abilities and their own c
 		<players>2</players>
 		<playcount>1</playcount>
 		<lastplayed>20190705T055206</lastplayed>
+	</game>
+	<game>
+		<path>./mslug5.zip</path>
+		<name>Metal Slug 5</name>
+		<desc>A special disc that contains deep and intricate secrets about the Metal Slug project is stolen by a mysterious group called the Ptolemaic Army, whose specialty lies from within archaeological excavation and espionage. Marco and Tarma of the Peregrine Falcon Strike Force follow in hot pursuit against the group and in the process are joined by Eri and Fio of SPARROWS. Together once more, the quartet investigate the shrouded objective of the Ptolemaic Army.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/mslug5-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>20031101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>5</playcount>
+		<lastplayed>20191013T071540</lastplayed>
 	</game>
 </gameList>
