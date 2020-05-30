@@ -1,115 +1,144 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <gameList>
-      <game id="" source="">
-          <path>./Final Fantasy Tactics (USA).cue</path>
-          <name>Final Fantasy Tactics</name>
-          <desc>Lead epic battles in a new Final Fantasy world.&#xA;&#xA;Betrayal and darker dealings await in Square Soft&#39;s game of war.&#xA;&#xA;Fight hundreds of battles across dangerous 3D terrain as an ancient blood feud awakens a deadlier foe.&#xA;&#xA;* Command knights, mages, ninjas and more&#xA;* Based on Final Fantasy characters and magic&#xA;* 19 character classes, 400 abilities&#xA;* Deep customization options&#xA;* In-game interactive manual&#xA;* Only on PlayStation.</desc>
-          <image>/home/settop/.emulationstation/downloaded_images/psx/Final Fantasy Tactics (USA)-image.png</image>
-          <rating>0.5</rating>
-          <releasedate>19980128T000000</releasedate>
-          <developer>Square</developer>
-          <publisher>Square</publisher>
-          <genre>Role-Playing</genre>
-      </game>
-      <game id="" source="">
-          <path>./Final Fantasy VII/Final Fantasy VII (Disc 1).cue</path>
-          <name>Final Fantasy VII</name>
-          <desc>Set in a dystopian world, Final Fantasy VII&#39;s story centers on mercenary Cloud Strife who joins with several others to stop the megacorporation Shinra, which is draining the life of the planet to use as an energy source. As the story progresses, the situation escalates and Cloud and his allies face Sephiroth, the game&#39;s main antagonist.</desc>
-          <image>/home/settop/.emulationstation/downloaded_images/psx/Final Fantasy VII (Disc 1)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19970601T000000</releasedate>
-          <developer>Square</developer>
-          <publisher>Square</publisher>
-          <genre>Role-Playing</genre>
-      </game>
-      <game id="" source="">
-          <path>./Final Fantasy VII/Final Fantasy VII (Disc 2).cue</path>
-          <name>Final Fantasy VII</name>
-          <desc>Set in a dystopian world, Final Fantasy VII&#39;s story centers on mercenary Cloud Strife who joins with several others to stop the megacorporation Shinra, which is draining the life of the planet to use as an energy source. As the story progresses, the situation escalates and Cloud and his allies face Sephiroth, the game&#39;s main antagonist.</desc>
-          <image>/home/settop/.emulationstation/downloaded_images/psx/Final Fantasy VII (Disc 2)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19970601T000000</releasedate>
-          <developer>Square</developer>
-          <publisher>Square</publisher>
-          <genre>Role-Playing</genre>
-      </game>
-      <game id="" source="">
-          <path>./Final Fantasy VII/Final Fantasy VII (Disc 3).cue</path>
-          <name>Final Fantasy VII</name>
-          <desc>Set in a dystopian world, Final Fantasy VII&#39;s story centers on mercenary Cloud Strife who joins with several others to stop the megacorporation Shinra, which is draining the life of the planet to use as an energy source. As the story progresses, the situation escalates and Cloud and his allies face Sephiroth, the game&#39;s main antagonist.</desc>
-          <image>/home/settop/.emulationstation/downloaded_images/psx/Final Fantasy VII (Disc 3)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19970601T000000</releasedate>
-          <developer>Square</developer>
-          <publisher>Square</publisher>
-          <genre>Role-Playing</genre>
-      </game>
-      <game id="" source="">
-          <path>./PaRappa the Rapper.cue</path>
-          <name>PaRappa the Rapper</name>
-          <desc>The original music video game.&#xA;&#xA;Help Parappa rap with the best of the master rappers and straight into Sunny&#39;s heart.&#xA;&#xA;Guaranteed you&#39;ll be singin&#39; and dancin&#39; along with Parappa and his pals to the most fun music mixes.</desc>
-          <image>/home/settop/.emulationstation/downloaded_images/psx/PaRappa the Rapper-image.jpg</image>
-          <rating>0.8</rating>
-          <releasedate>19971031T000000</releasedate>
-          <developer>NanaOn-Sha</developer>
-          <publisher>Sony Computer Entertainment</publisher>
-          <genre>Music</genre>
-      </game>
-      <game id="" source="">
-          <path>./Runabout 2.cue</path>
-          <name>Runabout 2</name>
-          <desc>Sporting game developers at Hot-B deliver this urban racing game for the PlayStation. Players will pilot as many as 31 different vehicles as they work through 13 high-energy, high-stakes missions. A variety of strategies can be used to complete missions, some of which focus on speed and precision while others require banging, bumping, and violent crashes. Players may want to tune up their vehicles between missions, adjusting suspension, brakes, tires, and acceleration for spot-on performance.</desc>
-          <image>/home/settop/.emulationstation/downloaded_images/psx/Runabout 2-image.jpg</image>
-          <releasedate>20000519T000000</releasedate>
-          <developer>Climax Co., Ltd. / Graphic Research</developer>
-          <publisher>Hot_B</publisher>
-          <genre>Racing</genre>
-      </game>
-      <game id="" source="">
-          <path>./Xenogears/Xenogears (Disc 1).cue</path>
-          <name>Xenogears</name>
-          <desc>Stand tall, and shake the heavens.&#xA;&#xA;A mysterious organization is turning the tides of a century-long war with ancient technology - giant combat robots. A failed attempt to steal one of these powerful mechanized weapons places it in the unwilling hands of Fei and his dubious allies. Now he is pursued by military governments, royal pirates, spies, the Emperor, and his own forgotten past.&#xA;&#xA;* Over 20 minutes of stunning hand-drawn animé tells this complex, futuristic tale.&#xA;* Battle in giant robots or hand-to-hand using intuitive combat systems without menus&#xA;* Explore detailed, fully-rotatable polygonal environments</desc>
-          <image>/home/settop/.emulationstation/downloaded_images/psx/Xenogears (Disc 1)-image.jpg</image>
-          <rating>0.8</rating>
-          <releasedate>19981020T000000</releasedate>
-          <developer>Squaresoft</developer>
-          <publisher>Squaresoft</publisher>
-          <genre>Role-Playing</genre>
-      </game>
-      <game id="" source="">
-          <path>./Xenogears/Xenogears (Disc 2).cue</path>
-          <name>Xenogears</name>
-          <desc>Stand tall, and shake the heavens.&#xA;&#xA;A mysterious organization is turning the tides of a century-long war with ancient technology - giant combat robots. A failed attempt to steal one of these powerful mechanized weapons places it in the unwilling hands of Fei and his dubious allies. Now he is pursued by military governments, royal pirates, spies, the Emperor, and his own forgotten past.&#xA;&#xA;* Over 20 minutes of stunning hand-drawn animé tells this complex, futuristic tale.&#xA;* Battle in giant robots or hand-to-hand using intuitive combat systems without menus&#xA;* Explore detailed, fully-rotatable polygonal environments</desc>
-          <image>/home/settop/.emulationstation/downloaded_images/psx/Xenogears (Disc 2)-image.jpg</image>
-          <rating>0.8</rating>
-          <releasedate>19981020T000000</releasedate>
-          <developer>Squaresoft</developer>
-          <publisher>Squaresoft</publisher>
-          <genre>Role-Playing</genre>
-      </game>
-      <game id="" source="">
-          <path>./Crash Team Racing.cue</path>
-          <name>Crash Team Racing</name>
-          <desc>The main antagonist of the story, Nitros Oxide, is the self-proclaimed fastest racer in the galaxy who threatens to turn Earth into a concrete parking lot. Preceding Oxide are four boss characters: Ripper Roo, a deranged straitjacket-wearing kangaroo; Papu Papu, the morbidly obese leader of the island&#39;s native tribe; Komodo Joe, a Komodo dragon with a speech sound disorder; and Pinstripe Potoroo, a greedy pinstripe-clad potoroo. The four boss characters, along with an imperfect and morally ambiguous clone of Crash Bandicoot named Fake Crash, become accessible as playable characters if the Adventure Mode is fully completed.</desc>
-          <image>/home/settop/.emulationstation/downloaded_images/psx/Crash Team Racing-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19990930T000000</releasedate>
-          <developer>Naughty Dog</developer>
-          <publisher>Sony Computer Entertainment</publisher>
-          <genre>Racing</genre>
-          <players>4+</players>
-          <playcount>1</playcount>
-          <lastplayed>20190526T195231</lastplayed>
-      </game>
-      <game id="" source="">
-          <path>./Gran Turismo 2 - Simulation.cue</path>
-          <name>Gran Turismo 2 - Simulation</name>
-          <desc></desc>
-          <releasedate></releasedate>
-          <developer></developer>
-          <publisher></publisher>
-          <genre></genre>
-          <playcount>2</playcount>
-          <lastplayed>20190530T033548</lastplayed>
-      </game>
-  </gameList>
+<?xml version="1.0"?>
+<gameList>
+	<game id="" source="">
+		<path>./Final Fantasy Tactics (USA).cue</path>
+		<name>Final Fantasy Tactics</name>
+		<desc>Lead epic battles in a new Final Fantasy world.
+
+Betrayal and darker dealings await in Square Soft's game of war.
+
+Fight hundreds of battles across dangerous 3D terrain as an ancient blood feud awakens a deadlier foe.
+
+* Command knights, mages, ninjas and more
+* Based on Final Fantasy characters and magic
+* 19 character classes, 400 abilities
+* Deep customization options
+* In-game interactive manual
+* Only on PlayStation.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/psx/Final Fantasy Tactics (USA)-image.png</image>
+		<rating>0.5</rating>
+		<releasedate>19980128T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game id="" source="">
+		<path>./Final Fantasy VII/Final Fantasy VII (Disc 2).cue</path>
+		<name>Final Fantasy VII</name>
+		<desc>Set in a dystopian world, Final Fantasy VII's story centers on mercenary Cloud Strife who joins with several others to stop the megacorporation Shinra, which is draining the life of the planet to use as an energy source. As the story progresses, the situation escalates and Cloud and his allies face Sephiroth, the game's main antagonist.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/psx/Final Fantasy VII (Disc 2)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19970601T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game id="" source="">
+		<path>./Final Fantasy VII/Final Fantasy VII (Disc 3).cue</path>
+		<name>Final Fantasy VII</name>
+		<desc>Set in a dystopian world, Final Fantasy VII's story centers on mercenary Cloud Strife who joins with several others to stop the megacorporation Shinra, which is draining the life of the planet to use as an energy source. As the story progresses, the situation escalates and Cloud and his allies face Sephiroth, the game's main antagonist.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/psx/Final Fantasy VII (Disc 3)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19970601T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game id="" source="">
+		<path>./PaRappa the Rapper.cue</path>
+		<name>PaRappa the Rapper</name>
+		<desc>The original music video game.
+
+Help Parappa rap with the best of the master rappers and straight into Sunny's heart.
+
+Guaranteed you'll be singin' and dancin' along with Parappa and his pals to the most fun music mixes.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/psx/PaRappa the Rapper-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19971031T000000</releasedate>
+		<developer>NanaOn-Sha</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Music</genre>
+	</game>
+	<game id="" source="">
+		<path>./Runabout 2.cue</path>
+		<name>Runabout 2</name>
+		<desc>Sporting game developers at Hot-B deliver this urban racing game for the PlayStation. Players will pilot as many as 31 different vehicles as they work through 13 high-energy, high-stakes missions. A variety of strategies can be used to complete missions, some of which focus on speed and precision while others require banging, bumping, and violent crashes. Players may want to tune up their vehicles between missions, adjusting suspension, brakes, tires, and acceleration for spot-on performance.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/psx/Runabout 2-image.jpg</image>
+		<releasedate>20000519T000000</releasedate>
+		<developer>Climax Co., Ltd. / Graphic Research</developer>
+		<publisher>Hot_B</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game id="" source="">
+		<path>./Xenogears/Xenogears (Disc 1).cue</path>
+		<name>Xenogears</name>
+		<desc>Stand tall, and shake the heavens.
+
+A mysterious organization is turning the tides of a century-long war with ancient technology - giant combat robots. A failed attempt to steal one of these powerful mechanized weapons places it in the unwilling hands of Fei and his dubious allies. Now he is pursued by military governments, royal pirates, spies, the Emperor, and his own forgotten past.
+
+* Over 20 minutes of stunning hand-drawn animé tells this complex, futuristic tale.
+* Battle in giant robots or hand-to-hand using intuitive combat systems without menus
+* Explore detailed, fully-rotatable polygonal environments</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/psx/Xenogears (Disc 1)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19981020T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game id="" source="">
+		<path>./Xenogears/Xenogears (Disc 2).cue</path>
+		<name>Xenogears</name>
+		<desc>Stand tall, and shake the heavens.
+
+A mysterious organization is turning the tides of a century-long war with ancient technology - giant combat robots. A failed attempt to steal one of these powerful mechanized weapons places it in the unwilling hands of Fei and his dubious allies. Now he is pursued by military governments, royal pirates, spies, the Emperor, and his own forgotten past.
+
+* Over 20 minutes of stunning hand-drawn animé tells this complex, futuristic tale.
+* Battle in giant robots or hand-to-hand using intuitive combat systems without menus
+* Explore detailed, fully-rotatable polygonal environments</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/psx/Xenogears (Disc 2)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19981020T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game id="" source="">
+		<path>./Crash Team Racing.cue</path>
+		<name>Crash Team Racing</name>
+		<desc>The main antagonist of the story, Nitros Oxide, is the self-proclaimed fastest racer in the galaxy who threatens to turn Earth into a concrete parking lot. Preceding Oxide are four boss characters: Ripper Roo, a deranged straitjacket-wearing kangaroo; Papu Papu, the morbidly obese leader of the island's native tribe; Komodo Joe, a Komodo dragon with a speech sound disorder; and Pinstripe Potoroo, a greedy pinstripe-clad potoroo. The four boss characters, along with an imperfect and morally ambiguous clone of Crash Bandicoot named Fake Crash, become accessible as playable characters if the Adventure Mode is fully completed.</desc>
+		<image>/home/settop/.emulationstation/downloaded_images/psx/Crash Team Racing-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Racing</genre>
+		<players>4+</players>
+		<playcount>1</playcount>
+		<lastplayed>20190526T195231</lastplayed>
+	</game>
+	<game id="" source="">
+		<path>./Gran Turismo 2 - Simulation.cue</path>
+		<name>Gran Turismo 2 - Simulation</name>
+		<desc />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<playcount>2</playcount>
+		<lastplayed>20190530T033548</lastplayed>
+	</game>
+	<game>
+		<path>./Final Fantasy VII/Final Fantasy VII (Disc 1).cue</path>
+		<name>Final Fantasy VII</name>
+		<desc>Set in a dystopian world, Final Fantasy VII's story centers on mercenary Cloud Strife who joins with several others to stop the megacorporation Shinra, which is draining the life of the planet to use as an energy source. As the story progresses, the situation escalates and Cloud and his allies face Sephiroth, the game's main antagonist.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Final Fantasy VII (Disc 1)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19970601T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20200530T050558</lastplayed>
+	</game>
+</gameList>
