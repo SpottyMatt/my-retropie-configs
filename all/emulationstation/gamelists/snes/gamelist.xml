@@ -112,24 +112,6 @@ Donkey Kong is back with a new sidekick, Diddy Kong, in a crazy island adventure
 		<lastplayed>20181223T223712</lastplayed>
 	</game>
 	<game>
-		<path>./Street Fighter II Turbo (USA).sfc</path>
-		<name>Street Fighter II Turbo</name>
-		<desc>Feel the Need for Speed!
-
-They're back and they're badder than ever! Faster, stronger and with all new moves, twelve of the greatest fighters from across the globe are ready to do battle! Choose your champion and get ready for the big brawl as they try to earn the right to battle M. Bison for the title. And just when you think you've mastered it all, crank it up a notch and go TURBO!
-
-Cover your head as Blanka dives at you from above and hear your neck crack as Zangief hits you with the Turbo Spinning Clothesline. Stare in disbelief as Dhalsim disappears before your eyes and Chun Li unleashes her blazing fireball! Watch in awe as Sagat fights Sagat and Ryu does a Hurricane Kick in mid-air! Survive all this and you may live long enough to become the greatest Street Fighter ever!</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/snes/Street Fighter II Turbo (USA)-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19930710T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20190320T232950</lastplayed>
-	</game>
-	<game>
 		<path>./Legend of Zelda, The - A Link to the Past (USA).sfc</path>
 		<name>The Legend of Zelda: A Link to the Past</name>
 		<desc>Venture back to Hyrule and an age of magic and heroes.  The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom.  Only you can prevent his evil plot from shattering the land of Hyrule.
@@ -214,5 +196,23 @@ Feel like a bit less speed and a lot more strategy?  Take a crack at the Battle 
 		<players>2</players>
 		<playcount>1</playcount>
 		<lastplayed>20191003T052011</lastplayed>
+	</game>
+	<game>
+		<path>./Street Fighter II Turbo (USA).sfc</path>
+		<name>Street Fighter II Turbo</name>
+		<desc>Feel the Need for Speed!
+
+They're back and they're badder than ever! Faster, stronger and with all new moves, twelve of the greatest fighters from across the globe are ready to do battle! Choose your champion and get ready for the big brawl as they try to earn the right to battle M. Bison for the title. And just when you think you've mastered it all, crank it up a notch and go TURBO!
+
+Cover your head as Blanka dives at you from above and hear your neck crack as Zangief hits you with the Turbo Spinning Clothesline. Stare in disbelief as Dhalsim disappears before your eyes and Chun Li unleashes her blazing fireball! Watch in awe as Sagat fights Sagat and Ryu does a Hurricane Kick in mid-air! Survive all this and you may live long enough to become the greatest Street Fighter ever!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Street Fighter II Turbo (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930710T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20200808T042224</lastplayed>
 	</game>
 </gameList>

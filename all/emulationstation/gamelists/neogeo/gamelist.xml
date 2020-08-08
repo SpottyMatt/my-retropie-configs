@@ -13,17 +13,6 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./neodrift.zip</path>
-		<name>Neo Drift Out</name>
-		<desc>In Neo Drift Out, you're driving against a series of opponents in a rally-style racing simulation. You are given the option of choosing one of many different types of Stock/NASCAR vehicles, which are named similarly enough to major name brands as to give players the ability to choose their real-life favorites. Following a rundown of your opponents, you are shown the gameplay screen which is laid out from a bird's eye top-down view of the car, with the camera focusing exclusively on your vehicle within the center of the screen.</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/neogeo/neodrift-image.jpg</image>
-		<releasedate>19960726T000000</releasedate>
-		<developer>Visco</developer>
-		<publisher>Snk</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./spinmast.zip</path>
 		<name>Spin Master</name>
 		<desc>Many years ago, a large treasure was hidden by a mysterious guy on an uncharted island. The guy of mystery drew the location of the treasure on a map and hid it deep in the forest of the island. Days turned to weeks, weeks turned to years, and years turned to decades. The guy who hid the map disappeared, never to be seen again. During this time, the map became dirty and weathered, eventually tearing into five pieces which were scattered about the corners of the world. One of these pieces wafted its way into the possession of the young treasure seeker name Johnny. Living with his girlfriend Mary and his rugged sidekick name Tom, Johnny dreamed of the day when he would some day find the ancient treasure on the hidden island of the mysterious guy.
@@ -79,20 +68,6 @@ This game also marked the debut of Jack and Ryofu, which many players considered
 		<players>2</players>
 		<playcount>1</playcount>
 		<lastplayed>20190320T235846</lastplayed>
-	</game>
-	<game>
-		<path>./kof98.zip</path>
-		<name>The King of Fighters '98</name>
-		<desc>The All-Star dream battle is here at last: It's King of Fighters '98! Here come 38 of your favorite characters from the King of Fighters series. Your favorite characters and teams are back! Filled with new surprises like the Roulette Team Edit and Advantage System, King '98 will pop your cork with unrelenting excitement!</desc>
-		<image>~/.emulationstation/downloaded_images/neogeo/kof98-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19980923T000000</releasedate>
-		<developer>Snk</developer>
-		<publisher>Snk</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20190704T233014</lastplayed>
 	</game>
 	<game>
 		<path>./garou.zip</path>
@@ -159,5 +134,32 @@ There are six characters to choose from, with specific abilities and their own c
 		<players>2</players>
 		<playcount>5</playcount>
 		<lastplayed>20191013T071540</lastplayed>
+	</game>
+	<game>
+		<path>./neodrift.zip</path>
+		<name>Neo Drift Out</name>
+		<desc>In Neo Drift Out, you're driving against a series of opponents in a rally-style racing simulation. You are given the option of choosing one of many different types of Stock/NASCAR vehicles, which are named similarly enough to major name brands as to give players the ability to choose their real-life favorites. Following a rundown of your opponents, you are shown the gameplay screen which is laid out from a bird's eye top-down view of the car, with the camera focusing exclusively on your vehicle within the center of the screen.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/neodrift-image.jpg</image>
+		<releasedate>19960726T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>Snk</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200808T035647</lastplayed>
+	</game>
+	<game>
+		<path>./kof98.zip</path>
+		<name>The King of Fighters '98</name>
+		<desc>The All-Star dream battle is here at last: It's King of Fighters '98! Here come 38 of your favorite characters from the King of Fighters series. Your favorite characters and teams are back! Filled with new surprises like the Roulette Team Edit and Advantage System, King '98 will pop your cork with unrelenting excitement!</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/kof98-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19980923T000000</releasedate>
+		<developer>Snk</developer>
+		<publisher>Snk</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20200808T040217</lastplayed>
 	</game>
 </gameList>
