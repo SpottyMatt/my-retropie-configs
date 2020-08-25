@@ -173,8 +173,26 @@ There are 8 stages in this game. The beginning stages consists of randomly chose
 		<publisher>Tecmo</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20190705T024500</lastplayed>
+		<playcount>2</playcount>
+		<lastplayed>20200825T012108</lastplayed>
+	</game>
+	<game>
+		<path>./Street Fighter II Turbo (USA).sfc</path>
+		<name>Street Fighter II Turbo</name>
+		<desc>Feel the Need for Speed!
+
+They're back and they're badder than ever! Faster, stronger and with all new moves, twelve of the greatest fighters from across the globe are ready to do battle! Choose your champion and get ready for the big brawl as they try to earn the right to battle M. Bison for the title. And just when you think you've mastered it all, crank it up a notch and go TURBO!
+
+Cover your head as Blanka dives at you from above and hear your neck crack as Zangief hits you with the Turbo Spinning Clothesline. Stare in disbelief as Dhalsim disappears before your eyes and Chun Li unleashes her blazing fireball! Watch in awe as Sagat fights Sagat and Ryu does a Hurricane Kick in mid-air! Survive all this and you may live long enough to become the greatest Street Fighter ever!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Street Fighter II Turbo (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930710T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>6</playcount>
+		<lastplayed>20200825T011001</lastplayed>
 	</game>
 	<game>
 		<path>./Super Mario Kart (USA).sfc</path>
@@ -194,25 +212,7 @@ Feel like a bit less speed and a lot more strategy?  Take a crack at the Battle 
 		<publisher>Nintendo</publisher>
 		<genre>Racing</genre>
 		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20191003T052011</lastplayed>
-	</game>
-	<game>
-		<path>./Street Fighter II Turbo (USA).sfc</path>
-		<name>Street Fighter II Turbo</name>
-		<desc>Feel the Need for Speed!
-
-They're back and they're badder than ever! Faster, stronger and with all new moves, twelve of the greatest fighters from across the globe are ready to do battle! Choose your champion and get ready for the big brawl as they try to earn the right to battle M. Bison for the title. And just when you think you've mastered it all, crank it up a notch and go TURBO!
-
-Cover your head as Blanka dives at you from above and hear your neck crack as Zangief hits you with the Turbo Spinning Clothesline. Stare in disbelief as Dhalsim disappears before your eyes and Chun Li unleashes her blazing fireball! Watch in awe as Sagat fights Sagat and Ryu does a Hurricane Kick in mid-air! Survive all this and you may live long enough to become the greatest Street Fighter ever!</desc>
-		<image>~/.emulationstation/downloaded_images/snes/Street Fighter II Turbo (USA)-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19930710T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<playcount>4</playcount>
-		<lastplayed>20200819T024308</lastplayed>
+		<playcount>2</playcount>
+		<lastplayed>20200825T011625</lastplayed>
 	</game>
 </gameList>
