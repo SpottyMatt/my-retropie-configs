@@ -23,23 +23,6 @@
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Shantae.gbc</path>
-		<name>Shantae</name>
-		<desc>Genie-girl Shantae is the self-appointed guardian of a small fishing village, Scuttle Town. Living life in a lighthouse rather than a bottle, she's constantly on the lookout for danger. When the nefarious lady-pirate, Risky Boots catches wind of the treasure that was recently unearthed in the village, she launches an attack. To get Scuttle out of trouble, it's up to Shantae to prove that she's the rightful 'Guardian Genie' to the best of her dancing, buying and hair-whipping abilities. Now crack that whip!
-
-* Play on the Game Boy Advance system for enhanced color and to unlock hidden secrets!
-* Over 50 Locations and Mini-Games!
-* Learn 'Dance Magic' to transform Shantae and learn new attacks!</desc>
-		<image>/home/settop/.emulationstation/downloaded_images/gbc/Shantae-image.png</image>
-		<rating>0.7</rating>
-		<releasedate>20020602T000000</releasedate>
-		<developer>WayForward</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action</genre>
-		<playcount>4</playcount>
-		<lastplayed>20181219T114013</lastplayed>
-	</game>
-	<game>
 		<path>./Pokemon Pinball.gbc</path>
 		<name>Pokémon Pinball</name>
 		<desc>There are two tables in the game, red and blue. Each table has its own details and gameplay elements.
@@ -54,7 +37,24 @@ Each table has different "locations" that you play, which determine which Pokém
 		<developer>Jupiter</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Puzzle</genre>
-		<playcount>1</playcount>
-		<lastplayed>20190705T023033</lastplayed>
+		<playcount>2</playcount>
+		<lastplayed>20200830T195814</lastplayed>
+	</game>
+	<game>
+		<path>./Shantae.gbc</path>
+		<name>Shantae</name>
+		<desc>Genie-girl Shantae is the self-appointed guardian of a small fishing village, Scuttle Town. Living life in a lighthouse rather than a bottle, she's constantly on the lookout for danger. When the nefarious lady-pirate, Risky Boots catches wind of the treasure that was recently unearthed in the village, she launches an attack. To get Scuttle out of trouble, it's up to Shantae to prove that she's the rightful 'Guardian Genie' to the best of her dancing, buying and hair-whipping abilities. Now crack that whip!
+
+* Play on the Game Boy Advance system for enhanced color and to unlock hidden secrets!
+* Over 50 Locations and Mini-Games!
+* Learn 'Dance Magic' to transform Shantae and learn new attacks!</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Shantae-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>20020602T000000</releasedate>
+		<developer>WayForward</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<playcount>5</playcount>
+		<lastplayed>20200830T201137</lastplayed>
 	</game>
 </gameList>
