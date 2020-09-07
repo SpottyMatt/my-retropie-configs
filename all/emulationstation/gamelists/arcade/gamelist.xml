@@ -332,4 +332,16 @@ The objective of the game is to reach the end of each stage and defeat the outla
 		<playcount>1</playcount>
 		<lastplayed>20190728T224518</lastplayed>
 	</game>
+	<game>
+		<path>./mk.zip</path>
+		<name>Mortal Kombat (rev 5.0 T-Unit 03/19/93)</name>
+		<playcount>1</playcount>
+		<lastplayed>20200907T193653</lastplayed>
+	</game>
+	<game>
+		<path>./mk2.zip</path>
+		<name>Mortal Kombat II (rev L3.1)</name>
+		<playcount>1</playcount>
+		<lastplayed>20200907T194100</lastplayed>
+	</game>
 </gameList>
